@@ -1,0 +1,118 @@
+item.stormyx_ingot.name=Стормиксовый слиток
+item.stormyx_nugget.name=
+item.stormyx_helmet.name=Стормиксовый шлем
+item.stormyx_cuirass.name=Стормиксовая кираса
+item.stormyx_leggings.name=Стормиксовые поножи
+item.stormyx_boots.name=Стормиксовые ботинки
+item.stormyx_sword.name=Стормиксовый меч
+item.stormyx_pickaxe.name=Стормиксовая кирка
+item.stormyx_axe.name=Стормиксовый топор
+item.stormyx_hoe.name=Стормиксовая мотыга
+item.stormyx_shovel.name=Стормиксовая лопата
+item.stormyx_battle_axe.name=Стормиксовый боевой топор
+item.stormyx_war_hammer.name=Стормиксовый боевой молот
+item.stormyx_mattock.name=Стормиксовая мотыго-лопата
+item.stormyx_scythe.name=Стормиксовая коса
+item.stormyx_dagger.name=Стормиксовый кинжал
+item.stormyx_hatchet.name=Стормиксовый топорик
+item.stormyx_shears.name=Стормиксовые ножницы
+
+item.steel_ingot.name=Стальной слиток
+item.steel_nugget.name=Кусочек стали
+item.steel_helmet.name=Стальной шлем
+item.steel_cuirass.name=Стальная кираса
+item.steel_leggings.name=Стальные поножи
+item.steel_boots.name=Стальные ботинки
+item.steel_sword.name=Стальной меч
+item.steel_pickaxe.name=Стальная кирка
+item.steel_axe.name=Стальной топор
+item.steel_shovel.name=Стальная лопата
+item.steel_hoe.name=Стальная мотыга
+item.steel_battle_axe.name=Стальной боевой топор
+item.steel_war_hammer.name=Стальной боевой молот
+item.steel_mattock.name=Стальная мотыго-лопата
+item.steel_scythe.name=Стальная коса
+item.steel_dagger.name=Стальной кинжал
+item.steel_hatchet.name=Стальной топорик
+item.steel_shears.name=Стальные ножницы
+
+item.bronze_ingot.name=Бронзовый слиток
+item.bronze_nugget.name=Кусочек брон
+item.bronze_helmet.name=Бронзовый шлем
+item.bronze_cuirass.name=Бронзовая кираса
+item.bronze_leggings.name=Бронзовые поножи
+item.bronze_boots.name=Бронзовые ботинки
+item.bronze_sword.name=Бронзовый меч
+item.bronze_pickaxe.name=Бронзовая кирка
+item.bronze_axe.name=Бронзовый топор
+item.bronze_shovel.name=Бронзовая лопата
+item.bronze_hoe.name=Бронзовая мотыга
+item.bronze_battle_axe.name=Бронзовый боевой топор
+item.bronze_war_hammer.name=Бронзовый боевой молот
+item.bronze_mattock.name=Бронзовая мотыго-лопата
+item.bronze_scythe.name=Бронзовая коса
+item.bronze_dagger.name=Бронзовый кинжал
+item.bronze_hatchet.name=Бронзовый топорик
+item.bronze_shears.name=Бронзовые ножницы
+
+item.tin_ingot.name=Tin слиток
+item.manganese_ingot.name=Manganese слиток
+
+# Blocks
+tile.tin_block.name=Tin блок
+tile.stormyx_block.name=Стормиксовый блок
+tile.manganese_block.name=Manganese блок
+tile.steel_block.name=Стальной блок
+tile.bronze_block.name=Бронзовый блок
+tile.midas_gold_block.name=Мидасовый золотой блок
+
+# Ores
+tile.tin_ore.name=Tin руда
+tile.stormyx_ore.name=Стормиксовая руда
+tile.manganese_ore.name=Manganese руда
+tile.midas_gold_ore.name=Мидасовая золотая руда
+
+
+item.midas_gold_ingot.name=Midas Gold слиток
+item.midas_gold_nugget.name=Midas Gold Nugget
+item.midas_gold_helmet.name=Midas Gold шлем
+item.midas_gold_cuirass.name=Midas Gold кираса
+item.midas_gold_leggings.name=Midas Gold поножи
+item.midas_gold_boots.name=Midas Gold ботинки
+item.midas_gold_sword.name=Midas Gold меч
+item.midas_gold_pickaxe.name=Midas Gold кирка
+item.midas_gold_axe.name=Midas Gold топор
+item.midas_gold_shovel.name=Midas Gold лопата
+item.midas_gold_hoe.name=Midas Gold мотыга
+item.midas_gold_battle_axe.name=Midas Gold боевой топор
+item.midas_gold_war_hammer.name=Midas Gold боевой молот
+item.midas_gold_mattock.name=Midas Gold мотыго-лопата
+item.midas_gold_scythe.name=Midas Gold коса
+item.midas_gold_dagger.name=Midas Gold кинжал
+item.midas_gold_hatchet.name=Midas Gold топорик
+item.midas_gold_shears.name=Midas Gold ножницы
+
+item.celestium_ingot.name=Celestium слиток
+item.celestium_nugget.name=Celestium Nugget
+item.celestium_helmet.name=Celestium шлем
+item.celestium_cuirass.name=Celestium кираса
+item.celestium_leggings.name=Celestium поножи
+item.celestium_boots.name=Celestium ботинки
+item.celestium_sword.name=Celestium меч
+item.celestium_pickaxe.name=Celestium кирка
+item.celestium_axe.name=Celestium топор
+item.celestium_shovel.name=Celestium лопата
+item.celestium_hoe.name=Celestium мотыга
+tile.celestium_block.name=Celestium блок
+
+item.gilded_midas_gold_sword.name=Gilded Midas Gold меч
+item.royal_midas_gold_broadsword.name=Royal Midas Gold Broadsword
+item.royal_midas_gold_greatsword.name=Royal Midas Gold Greatsword
+item.true_royal_midas_gold_sword.name=True Royal Midas Gold меч
+
+itemGroup.MoreMetalsMiscellaneous=MoreMetals Miscellaneous
+itemGroup.MoreMetalsTools=MoreMetals Tools
+itemGroup.MoreMetalsCombat=MoreMetals Combat
+
+itemtool.tooltip.slimeresistance=Corrosion Resistance
+itemarmor.tooltip.slimeresistance=Corrosion Resistance

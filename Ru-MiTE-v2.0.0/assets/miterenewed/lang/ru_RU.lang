@@ -1,0 +1,52 @@
+item.sharp_bone.name=Заточенная кость
+item.quern.name=Ступка
+item.bone_spear.name=Костяное копьё
+item.flint_spear.name=Кремневое копьё
+item.obsidian_spear.name=Обсидиановое копьё
+item.copper_spear.name=Медное копьё
+item.silver_spear.name=Серебряное копьё
+item.gold_spear.name=Золотое копьё
+item.iron_spear.name=Железное копьё
+item.ancient_metal_spear.name=Древнее металлическое копьё
+item.mithril_spear.name=Мифриловое копьё
+item.adamantium_spear.name=Адамантиумовое копьё
+item.tangled_web.name=Спутанная паутина
+item.silk_mesh.name=Шёлковое сито
+item.sinew_mesh.name=Жильное сито
+item.handpan.empty.name=Лоток (ничего)
+item.handpan.sinew.name=Лоток (жильное сито)
+item.handpan.silk.name=Лоток (шёлковое сито)
+item.biomass.name=Биомасса
+
+item.raw_sirloin.name=Сырое филе
+item.raw_fillet.name=Сырая вырезка
+item.raw_bacon.name=Сырой бекон
+item.raw_gizzard.name=Сырые потроха
+item.raw_mutton_chops.name=Сырая баранья отбивная
+item.raw_nopales.name=Нопаль
+item.cooked_sirloin.name=Жареное филе
+item.cooked_fillet.name=Жареная вырезка
+item.cooked_bacon.name=Жареный бекон
+item.cooked_mutton_chops.name=Жареная баранья отбивная
+item.cooked_gizzard.name=Жареные потроха
+item.cooked_nopales.name=Жареный нопаль
+
+tooltip.handpan.contains=Содержит
+tooltip.handpan.nothing=Пусто
+tooltip.emi.handpan.process=Тратится %d прочности на обработку
+tooltip.emi.handpan.time=Обработка занимает %.1f секунд
+tooltip.emi.handpan.chance=Вероятность: %d%%
+
+emi.category.miterenewed.handpan=Panning
+
+tag.wildcard.Raw Porkchop.319=Сырая свинина
+tag.wildcard.Cooked Porkchop.320=Жареная свинина
+tag.wildcard.Raw Steak.363=Сырая говядина
+tag.wildcard.Cooked Steak.364=Жареная говядина
+tag.wildcard.Raw Chicken.365=Сырая птица
+tag.wildcard.Cooked Chicken.366=Жареная птица
+tag.wildcard.Raw Lambchop.1172=Сырая баранина
+tag.wildcard.Cooked Lambchop.1173=Жареная баранина
+tag.wildcard.Handpan (Empty).4262=Лоток
+
+tile.sandstoneFurnace.name=Песчаная печь

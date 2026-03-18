@@ -1,0 +1,468 @@
+achievement.MinePieces=Переборщил
+achievement.MinePieces.desc=Разбейте руду в рудные куски.
+achievement.WearAllWolfArmor=Популярный бренд
+achievement.WearAllWolfArmor.desc=И поборите холод.
+achievement.WearAllIceArmor=Будь крутым
+achievement.WearAllIceArmor.desc=И поборите жар .
+achievement.BuildTungstenBow=Арбалистика
+achievement.BuildTungstenBow.desc=Добудьте сильнейший лук.
+achievement.getWitherSkull=Бедный Йорик!
+achievement.getWitherSkull.desc=Добудьте череп скелета-иссушителя.
+achievement.getBeacon=Желанный свет
+achievement.getBeacon.desc=Добудьте и запустите маяк.
+achievement.mashedCactus=Чрезвычайная ситуация
+achievement.mashedCactus.desc=Добудьте воду для выживания.
+achievement.Feast=Пир на весь мир
+achievement.Feast.desc=Станьте гурманом!
+achievement.overkill.desc=Нанесите урон в 20 сердец одним ударом.
+achievement.SoundofUnder=Звук недр
+achievement.SoundofUnder.desc=Добудьте пластинку из подземелья.
+achievement.NoChoice=Выхода нет
+achievement.NoChoice.desc=Добудьте молоко перед использование.
+achievement.CheersforMinecraft=Тост
+achievement.CheersforMinecraft.desc=Горько!!!
+achievement.Copying=Йо-хо-хо!
+achievement.Copying.desc=Никакого авторского права! Скопируйте кузнечные записи.
+achievement.NeverEnds=Бесконечная игра
+achievement.NeverEnds.desc=Переплавьте уровую руду в слиток.
+achievement.ForgingLegend=Величайший кузнец
+achievement.ForgingLegend.desc=Улучшите мифриловую броню до уровой, при помощи кузнечных записей.
+achievement.Invincible=НЕПОКОЛЕБИМЫЙ
+achievement.Invincible.desc=Вари!Вари!Вари!
+achievement.StormStriker=Хорошая получилась история...
+achievement.StormStriker.desc=Пройдите MiTE-iTF.
+achievement.obtainUruBeacon=Маяковский
+achievement.obtainUruBeacon.desc=Добудьте и запустите уровый маяк.
+achievement.DeathCheater=Свет в конце тоннеля
+achievement.DeathCheater.desc=Воспользуйтесь тотемом бессмертия, чтобы перехитрить смерть.
+achievement.Pull=Вот дерьмо!
+achievement.Pull.desc=Отвратительно...
+achievement.LichHunter=Биологический эксперимент
+achievement.LichHunter.desc=Знакомый, но неописуемый.
+achievement.Decimator=Супер-фрукт
+achievement.Decimator.desc=Зачаруйте легендарное золотое яблоко.
+
+curse.fearOfDarkness.name=Проклятье сонного параличи
+curse.fearOfDarkness.desc=Окутавшись во тьму, вы впадаете в ступор.
+curse.fearOfLight.name=Проклятье белой кожи
+curse.fearOfLight.desc=Вам плохо от солнечного света.
+
+potion.extend.freeze=Заморозка
+potion.extend.dehydration=Обезвоживание
+potion.extend.thirsty=Жажда
+potion.extend.stunning=Ошеломление
+potion.extend.stretch=Растяжка
+potion.extend.warm=Тепло
+potion.extend.cool=Холод
+potion.extend.frost_resistance=Хладостойкость
+
+potion.extend.stretch.postfix=Зелье растяжки
+potion.extend.frost_resistance.postfix=Зелье хладостойкости
+
+generator.default_1_1=Огромные биомы (старые)
+
+item.tooltip.water.add=+%d воды
+item.tooltip.water.minus=%d воды
+item.tooltip.water.chance=+1 воды с шансом %d%%
+item.tooltip.reach.add=+%d блок. к дальности взаимодействия
+
+item.armor/nickel_helmet.name=Никелевый шлем
+item.armor/nickel_chestplate.name=Никелевый нагрудник
+item.armor/nickel_leggings.name=Никелевые поножи
+item.armor/nickel_boots.name=Никелевые ботинки
+item.armor/nickel_chainmail_helmet.name=Никелевый койф
+item.armor/nickel_chainmail_chestplate.name=Никелевая кольчуга
+item.armor/nickel_chainmail_leggings.name=Никелевые кольчужные поножи
+item.armor/nickel_chainmail_boots.name=Никелевые кольчужные ботинки
+
+item.armor/wolf_helmet.name=Волчья шапка
+item.armor/wolf_jacket.name=Волчья куртка
+item.armor/wolf_leggings.name=Волчьи штаны
+item.armor/wolf_boots.name=Волчьи сапоги
+item.armor/ice_helmet.name=Ледяной шлем
+item.armor/ice_chestplate.name=Ледяной нагрудник
+item.armor/ice_leggings.name=Ледяные поножи
+item.armor/ice_boots.name=Ледяные ботинки
+
+item.leather_kettle.name=Бурдюк
+item.leather_kettle_pure.name=Кожаный бурдюк с чистой водой
+item.uru_kettle.name=Уровый бурдюк
+
+item.clay_jug.name=Глиняный кувшин
+item.hardened_clay_jug.name=Обожжённый глиняный кувшин
+item.hardened_clay_jug_pure.name=Обожжённый глиняный кувшин с чистой водой
+
+enchantment.vanishing=Проклятье утраты
+enchantment.melting=Плавление
+enchantment.absorb=Поглощение
+enchantment.destroying=разрушенние
+enchantment.infinity=Бесконечность
+enchantment.arrogance=Проклятье высокомерия
+enchantment.sweeping=Разящий клинок
+enchantment.thresher=Молотилка
+enchantment.mending.all=Починка
+enchantment.mending.sunlight=Солнечная починка
+enchantment.mending.moonlight=Лунная починка
+
+potion.dehydration=Обезвоживание
+
+item.ingots/nickel.name=Никелевый слиток
+item.nuggets/nickel.name=Никелевый кусочек
+item.tools/nickel_axe.name=Никелевый топор
+item.tools/nickel_pickaxe.name=Никелевая кирка
+item.tools/nickel_dagger.name=Никелевый кинжал
+item.tools/nickel_hatchet.name=Никелевый топорик
+item.tools/nickel_battle_axe.name=Никелевый боевой топор
+item.tools/nickel_hoe.name=Никелевая мотыга
+item.tools/nickel_knife.name=Никелевый нож
+item.tools/nickel_mattock.name=Никелевая мотыго-лопата
+item.tools/nickel_scythe.name=Никелевая коса
+item.tools/nickel_shears.name=Никелевая ножницы
+item.tools/nickel_shovel.name=Никелевая лопата
+item.tools/nickel_sword.name=Никелевый меч
+item.tools/nickel_war_hammer.name=Никелевый боевой молот
+item.tools/nickel_club.name=Никелевый моргенштерн
+
+item.doors/nickel.name=Никелевая дверь
+item.chain/nickel.name=Никелевая цепь
+item.coins/nickel.name=Никелевая монета
+item.arrows/nickel_arrow.name=Никелевая стрела
+
+tile.ore/nickel_ore.name=Никелевая руда
+tile.block/nickel_block.name=Никелевый блок
+tile.blastfurnace_stone_idle.name=Каменная плавильная печь
+tile.blastfurnace_obsidian_idle.name=Обсидиановая плавильная печь
+tile.blastfurnace_netherrack_idle.name=Адская плавильная печь
+tile.blastfurnace_stone_burning.name=Каменная плавильная печь
+tile.blastfurnace_obsidian_burning.name=Обсидиановая плавильная печь
+tile.blastfurnace_netherrack_burning.name=Адская плавильная печь
+tile.nickel_anvil.intact.name=Никелевая наковальня
+tile.nickel_anvil.slightlyDamaged.name=Повреждённая никелевая наковальня
+tile.nickel_anvil.veryDamaged.name=Сильно повреждённая никелевая наковальня
+tile.block_enchant_reserver.name=Хранитель зачарований
+tile.block_enchant_enhancer.name=Усилитель зачарований
+tile.block_enchant_predicator.name=Предсказатель зачарований
+tile.magic_table.name=Магический стол зачарований
+tile.block_observer.name=Наблюдатель
+tile.block_receiver.name=Приёмник наблюдателя
+tile.bars/nickel_bars.name=Никелевые прутья
+tile.toolbench.nickel.name=Никелевый верстак
+tile.block_smoker_idle.name=Коптильня
+tile.block_smoker_burning.name=Коптильня
+tile.beetroot.name=Свёкла
+tile.azurite_block.name=Азуритовый блок
+tile.azurite_cluster.name=Азуритовая друза
+tile.torch_idle.name=Факел
+tile.torch_off.name=Потухший факел
+tile.sulphur.name=Серный блок
+tile.uru_beacon.name=Уровый маяк
+
+tile.flowers/.luminescent_herb.name=Куст светящихся ягод
+tile.flowers/.azure_bluet.name=Хаустония серая
+tile.flowers/.cornflower.name=Синий василёк
+tile.flowers/.lily_of_the_valley.name=Ландыш
+tile.flowers/.pink_tulip.name=Розовый тюльпан
+tile.flowers/.white_tulip.name=Белый тюльпан
+tile.flowers/.red_tulip.name=Красный тюльпан
+tile.flowers/.agave.name=Агава
+
+item.armor/tungsten_helmet.name=Вольфрамовый шлем
+item.armor/tungsten_chestplate.name=Вольфрамовый нагрудник
+item.armor/tungsten_leggings.name=Вольфрамовые поножи
+item.armor/tungsten_boots.name=Вольфрамовые ботинки
+item.armor/tungsten_chainmail_helmet.name=Вольфрамовый койф
+item.armor/tungsten_chainmail_chestplate.name=Вольфрамовая кольчуга
+item.armor/tungsten_chainmail_leggings.name=Вольфрамовые кольчужные поножи
+item.armor/tungsten_chainmail_boots.name=Вольфрамовые кольчужные ботинки
+
+item.ingots/tungsten.name=Вольфрамовый слиток
+item.nuggets/tungsten.name=Вольфрамовый кусочек
+item.tools/tungsten_axe.name=Вольфрамовый топор
+item.tools/tungsten_pickaxe.name=Вольфрамовая кирка
+item.tools/tungsten_dagger.name=Вольфрамовый кинжал
+item.tools/tungsten_hatchet.name=Вольфрамовый топорик
+item.tools/tungsten_battle_axe.name=Вольфрамовый боевой топор
+item.tools/tungsten_hoe.name=Вольфрамовая мотыга
+item.tools/tungsten_knife.name=Вольфрамовый нож
+item.tools/tungsten_mattock.name=Вольфрамовая мотыго-лопата
+item.tools/tungsten_scythe.name=Вольфрамовая коса
+item.tools/tungsten_shears.name=Вольфрамовые ножницы
+item.tools/tungsten_shovel.name=Вольфрамовая лопата
+item.tools/tungsten_sword.name=Вольфрамовый меч
+item.tools/tungsten_war_hammer.name=Вольфрамовый боевой молот
+item.tools/tungsten_club.name=Вольфрамовый моргенштерн
+item.tungsten_bow.name=Вольфрамовый лук
+
+item.doors/tungsten.name=Вольфрамовая дверь
+item.chain/tungsten.name=Вольфрамовая цепь
+item.coins/tungsten.name=Вольфрамовая монета
+item.arrows/tungsten_arrow.name=Вольфрамовая стрела
+
+tile.ore/tungsten_ore.name=Вольфрамовая руда
+tile.block/tungsten_block.name=Вольфрамовый блок
+tile.tungsten_anvil.intact.name=Вольфрамовая наковальня
+tile.tungsten_anvil.slightlyDamaged.name=Повреждённая вольфрамовая наковальня
+tile.tungsten_anvil.veryDamaged.name=Сильно повреждённая вольфрамовая наковальня
+tile.bars/tungsten_bars.name=Вольфрамовые прутья
+tile.toolbench.tungsten.name=Вольфрамовый верстак
+
+tile.ore/uru_ore.name=Уровая руда
+
+item.armor/uru_helmet.name=Уровый шлем
+item.armor/uru_chestplate.name=Уровый нагрудник
+item.armor/uru_leggings.name=Уровые поножи
+item.armor/uru_boots.name=Уровые ботинки
+
+item.ingots/uru.name=Уровый слиток
+item.nuggets/uru.name=Уровый кусочек
+item.tools/uru_battle_axe.name=Уровый боевой топор
+item.tools/uru_mattock.name=Уровоая мотыго-лопата
+item.tools/uru_scythe.name=Уровая коса
+item.tools/uru_sword.name=Уровый меч
+item.tools/uru_war_hammer.name=Уровый боевой молот
+item.tools/uru_club.name=Уровый моргенштерн
+item.tools/uru_pickaxe.name=Уровая кирка
+item.uru_bow.name=Уровый лук
+
+item.armor/vibranium_helmet.name=Ложный вибраниумовый шлем
+item.armor/vibranium_chestplate.name=Ложный вибраниумовый нагрудник
+item.armor/vibranium_leggings.name=Ложные вибраниумовые поножи
+item.armor/vibranium_boots.name=Ложные вибраниумовые ботинки
+item.tools/vibranium_sword.name=Ложный вибраниумовый меч
+
+item.armor/maid_helmet.name=Неизвестный шлем
+item.armor/maid_chestplate.name=Неизвестный нагрудник
+item.armor/maid_leggings.name=Неизвестные поножи
+item.armor/maid_boots.name=Неизвестные ботинки
+
+item.armor/ancient_metal_sacred_helmet.name=Позолочённый древний металлический шлем
+item.armor/ancient_metal_sacred_chestplate.name=Позолочённый древний металлический нагрудник
+item.armor/ancient_metal_sacred_leggings.name=Позолочённые древние металлические поножи
+item.armor/ancient_metal_sacred_boots.name=Позолочённые древние металлические ботинки
+
+item.tools/rusted_iron_club.name=Ржавый железные моргенштерн
+item.tools/copper_club.name=Медный моргенштерн
+item.tools/silver_club.name=Серебряный моргенштерн
+item.tools/gold_club.name=Золотой моргенштерн
+item.tools/iron_club.name=Железный моргенштерн
+item.tools/ancient_metal_club.name=Древний металлический моргенштерн
+item.tools/mithril_club.name=Мифриловый моргенштерн
+item.tools/adamantium_club.name=Адамантиумовый моргенштерн
+
+item.tools/flint_hoe.name=Кремневая мотыга
+item.tools/stick_knife.name=Деревянный нож
+
+item.bowls/lampchop_stew.name=Миска тушёной баранины
+item.bowls/porkchop_stew.name=Миска тушёной свинины
+item.bowls/lemonade.name=Миска лимонада
+item.bowls/salmon_soup.name=Миска лососевой похлёбки
+item.bowls/beetroot_soup.name=Миска борща
+item.bowls/bowl_water_pure.name=Миска чистой воды
+item.hardened_clay_bowls/raw.name=Необожжённая глиняная миска
+item.hardened_clay_bowls/beef_stew.name=Глиняная миска тушёной говядины
+item.hardened_clay_bowls/beetroot_soup.name=Глиняная миска борща
+item.hardened_clay_bowls/bowl_milk.name=Глиняная миска молока
+item.hardened_clay_bowls/bowl_salad.name=Глиняная миска салата
+item.hardened_clay_bowls/bowl_water.name=Глиняная миска воды
+item.hardened_clay_bowls/bowl_water_pure.name=Глиняная миска чистой воды
+item.hardened_clay_bowls/cereal.name=Глиняная миска хлопьев
+item.hardened_clay_bowls/chicken_soup.name=Глиняная миска куриного супа
+item.hardened_clay_bowls/cream_of_mushroom_soup.name=Глиняная миска грибного супа-пюре
+item.hardened_clay_bowls/cream_of_vegetable_soup.name=Глиняная миска овощного супа-пюре
+item.hardened_clay_bowls/empty.name=Глиняная миска
+item.hardened_clay_bowls/ice_cream.name=Глиняная миска мороженого
+item.hardened_clay_bowls/lampchop_stew.name=Глиняная миска тушёной баранины
+item.hardened_clay_bowls/lemonade.name=Глиняная миска лимонада
+item.hardened_clay_bowls/mashed_potato.name=Глиняная миска картофельного пюре
+item.hardened_clay_bowls/mushroom_stew.name=Глиняная миска грибного супа
+item.hardened_clay_bowls/porkchop_stew.name=Глиняная миска тушёной свинины
+item.hardened_clay_bowls/porridge.name=Глиняная миска каши
+item.hardened_clay_bowls/pumpkin_soup.name=Глиняная миска тыквенного супа
+item.hardened_clay_bowls/salmon_soup.name=Глиняная миска лососевой похлёбки
+item.hardened_clay_bowls/sorbet.name=Глиняная миска сорбета
+item.hardened_clay_bowls/vegetable_soup.name=Глиняная миска овощного супа
+
+item.pieces/copper.name=Рудная медь
+item.pieces/silver.name=Рудное серебро
+item.pieces/gold.name=Рудное золото
+item.pieces/gold_nether.name=Рудное адское золото
+item.pieces/iron.name=Рудное железо
+item.pieces/nickel.name=Рудной никель
+item.pieces/mithril.name=Рудной мифрил
+item.pieces/tungsten.name=Рудной вольфрам
+item.pieces/adamantium.name=Рудной адамантиум
+item.pieces/uru.name=Рудной уру
+
+item.buckets/nickel/empty.name=Никелевое ведро
+item.buckets/nickel/lava.name=Никелевое ведро лавы
+item.buckets/nickel/milk.name=Никелевое ведро молока
+item.buckets/nickel/stone.name=Никелевое ведро камня
+item.buckets/nickel/water.name=Никелевое ведро воды
+item.buckets/nickel/water_pure.name=Никелевое ведро чистой воды
+item.buckets/tungsten/empty.name=Вольфрамовое ведро
+item.buckets/tungsten/lava.name=Вольфрамовое ведро лавы
+item.buckets/tungsten/milk.name=Вольфрамовое ведро молока
+item.buckets/tungsten/stone.name=Вольфрамовое ведро камня
+item.buckets/tungsten/water.name=Вольфрамовое ведро воды
+item.buckets/tungsten/water_pure.name=Вольфрамовое ведро чистой воды
+item.buckets/copper/water_pure.name=Медное ведро чистой воды
+item.buckets/silver/water_pure.name=Серебряное ведро чистой воды
+item.buckets/gold/water_pure.name=Золотое ведро чистой воды
+item.buckets/iron/water_pure.name=Железное ведро чистой воды
+item.buckets/mithril/water_pure.name=Мифриловое ведро чистой воды
+item.buckets/ancient_metal/water_pure.name=Древнее металлическое ведро чистой воды
+item.buckets/adamantium/water_pure.name=Адамантиумовое ведро чистой воды
+item.buckets/wood/empty.name=Деревянное ведро
+item.buckets/wood/water.name=Деревянное ведро воды
+item.buckets/wood/milk.name=Деревянное ведро молока
+item.buckets/wood/water_pure.name=Деревянное ведро чистой воды
+
+item.food/mashed_cactus.name=Кактусовое пюре
+item.food/ice_sucker.name=Ледяная сосулька
+item.food/melon_ice.name=Арбузный лёд
+item.food/chocolate_smoothie.name=Шоколадное смузи
+item.food/lemon.name=Лимон
+item.food/lemon_pie.name=Лимонный пирог
+item.food/horse_meat.name=Сырое конское мясо
+item.food/horse_meat_cooked.name=Жареное конское мясо
+item.apple_golden.name=§bЗолотое яблоко
+item.apple_golden_legend.name=§dЗолотое яблоко
+item.food/glow_berries.name=Светящиеся ягоды
+item.food/agave.name=Мякоть агавы
+item.food/beetroot.name=Свёкла
+item.food/beetroot_seeds.name=Семена свёклы
+item.food/peeled_sugarcane.name=Очищенный сахарный тростник
+item.misc/pulque.name=Пульке
+item.misc/ale.name=Эль
+item.misc/forging_note.name=Кузнечные записи
+item.totem/totem_of_fecund.name=Тотем изобилия
+item.totem/totem_of_knowledge.name=Тотем эрудиции
+item.totem/totem_of_destroy.name=Тотем разрушения
+item.totem/totem_of_preserve.name=Тотем сохранения
+item.totem/totem_of_hunting.name=Тотем охоты
+item.totem/totem_of_sentry.name=Тотем часового
+item.totem/totem_of_unknown.name=Неизвестный тотем
+item.totem/totem_of_flattening.name=Тотем выравнивания
+item.misc/wither_branch.name=Иссушенная ветвь
+item.misc/sulphur_sphere.name=Сера
+item.misc/ender_rod.name=Стержень края
+item.misc/ice_chunk.name=Кусок льда
+item.misc/frost_rod.name=Стержень мороза
+item.misc/frost_powder.name=Морозный порошок
+item.misc/boss_detector.name=Детектор босса
+
+item.ignition/wood.name=Лучковое огниво
+item.ignition/rusted_iron.name=Ржавая железная огниво
+item.ignition/copper.name=Медная огниво
+item.ignition/silver.name=Серебряная огниво
+item.ignition/gold.name=Золотая огниво
+item.ignition/iron.name=Железная огниво
+item.ignition/nickel.name=Никелевая огниво
+item.ignition/ancient_metal.name=Древняя металлическая огниво
+item.ignition/mithril.name=Мифриловая огниво
+item.ignition/tungsten.name=Вольфрамовая огниво
+item.ignition/adamantium.name=Адамантиумовая огниво
+
+item.shards/diamond.name=Алмазный осколок
+item.shards/emerald.name=Изумрудный осколок
+item.shards/quartz.name=Кварцевый осколок
+item.misc/azurite.name=Азурит
+
+item.records/record_damnation.name=Пластинка
+item.records/record_connected.name=Пластинка
+
+item.tools/detector.name=Калиброваный датчик
+item.tools/detector_emerald.name=Датчик
+
+item.potion/experimental_potion.name=Экспериментальное зелье
+item.potion/suspicious_potion.name=Пузырёк грязной воды
+
+item.misc/wolf_fur.name=Волчья шерсть
+item.misc/ancient_metal_armor_piece.name=Позолочённый древний металлический кусочек брони
+
+item.arrows/magical_arrow.name=Магическая стрела
+
+item.wand/lava.name=Посох лавы
+item.wand/ice.name=Посох льда
+item.wand/thunder.name=Посох молний
+item.wand/ender.name=Посох края
+
+item.loot_pack/lich.name=Мешок драгоценностей Лича
+
+item.pocket/mine.name=Шахтёрская сумка
+
+itemarrow.tooltip.disable=Отключено из-за технических неполадок...
+itemtool.tooltip.slimeresistance=Бонус урона против слизней
+itemarmor.tooltip.slimeresistance=Бонус защиты против слизней
+itemwine.tooltip.warning=Чрезмерное употребление алкоголя не рекомендуется.
+
+entity.EntityWitherBoneLord.name=Иссушенный костяной лорд
+entity.EntityWitherBodyguard.name=Иссушенный телохранитель
+entity.EntityClusterSpider.name=Роевой паук
+entity.EntitySpiderKing.name=Король пауков
+entity.EntityPigManlord.name=Подгнивающий свино-лорд
+entity.EntityStray.name=Зимогор
+entity.EntityHusk.name=Кадавр
+entity.EntityLichShadow.name=Тень лича
+entity.EntityLich.name=Лич
+entity.EntityStalkerCreeper.name=Крипер-преследователь
+entity.EntityZombieLord?.name=Ложный гниющий лорд
+entity.EntityZombieRetinue.name=Зомби-прислуга
+entity.EntityBoneBodyguard.name=Костяной телохранитель
+entity.EntityGhost.name=Привидение
+entity.EntityEvil.name=Зловещее привидение
+entity.EntityCastleGuard.name=Древний голем
+entity.EntityPigManGuard.name=Свинозомби стражник
+entity.EntitySpirit.name=Дух
+entity.EntityLongdeadSentry.name=Истлевший часовой
+entity.EntitySkeletonHorse.name=Лошадь-скелет
+entity.EntityUndeadGuard.name=Страж-нежить
+
+death.extend.attack.thirsty=умер от жажды
+death.extend.attack.freeze=замёрз насмерть
+death.extend.attack.heat=умер от жары
+death.extend.attack.malnourished=умер от истощения
+death.extend.attack.sacrificed=отдал свою жизнь
+
+material.nickel.name=Никелевый
+material.tungsten.name=Вольфрамовый
+
+gui.repair.no_available_enchantment=Нет доступных зачарований
+gui.repair.enchantment_conflict=Конфликтующие зачарования
+gui.repair.lack_xp=Незватает опыта: >=%d ур.
+gui.repair.effectLessThanOneLevel=Совмещение будет стоить <1 уровня.
+gui.repair.costMoreThanOneLevel=Совмещение будет стоить %d ур.
+gui.repair.rewardMoreThanOneLevel=Совмещение даст вам %d ур.
+
+gui.enchantReserver.slotTop.tooltip=Положите содержащий опыт предмет, например алмаз
+gui.enchantReserver.slotBottom.tooltip=Положите сохраняющий опыт предмет, например бутылка или кусочек металла
+
+itf.item.totem_of_knowledge.info=Увеличивает получаемый опыт на 20%
+itf.item.totem_of_flattening.info=Разглаживает область площадью 15 на 15. Если тотем благословлен, то разглаживаемая область увеличивается до 29 на 29
+itf.item.frost_rod.info=Увеличивает дальность взаимодействия и может быть раздроблен в порошок
+itf.item.ender_rod.info=Увеличивает дальность взаимодействия и может быть использован для зельеварения
+itf.item.emerald.info=В MiTE-iTF изумруды нужно искать в холодных местах
+
+emi.category.itf.enchant_reserver.in=Transform
+emi.category.itf.enchant_reserver.out=Reserve
+emi.category.itf.metal_recycle=Metal Recycle
+itf.exp.provides=Transforms into %d xp
+itf.exp.consumes=Consumes %d xp
+
+villager.profession.farmer=Фермер
+villager.profession.shepherd=Пастух
+villager.profession.fletcher=Лучник
+villager.profession.baker=Пекарь
+villager.profession.chef=Повар
+villager.profession.fisherman=Рыбак
+villager.profession.copier=Библиотекарь
+villager.profession.professor=Профессор
+villager.profession.priest=Священник
+villager.profession.brewer=Пивовар
+villager.profession.toolsmith=Инструментальщик
+villager.profession.armorer=Бронник
+villager.profession.butcher=Мясник
+villager.profession.leatherworker=Кожевник
+
+itemGroup.itf_reborn.item=ITF: редметы
+itemGroup.itf_reborn.block=ITF: блоки

@@ -1,0 +1,161 @@
+item.magnet.name=Магнит
+item.uncannybaubles:magnet.info=Притягивает предметы.
+
+item.lucky_clover.name=Четырёхлистный клевер
+item.uncannybaubles:lucky_clover.info=Наделяет дополнительным уровнем зачарований: удача, добыча, забой. Также с существ выпадают дополнительные вещи.
+
+item.bottled_cloud.name=Облако в бутылке
+item.uncannybaubles:bottled_cloud.info=Наделяет способностью совершать двойной прыжок.
+
+item.pocket_piston.name=Карманный поршень
+item.uncannybaubles:pocket_piston.info=Увеличивает дистанцию взаимодействия на 1 блок.
+
+item.bezoar.name=Безоар
+item.uncannybaubles:bezoar.info=Наделяет иммунитетом к отравлению.
+
+item.regen_bracelet.name=Браслет жизни
+item.uncannybaubles:regen_bracelet.info=Увеличивает скорость регенерации на 25% (1 браслет: x1.25; 2 браслета: x1.5625; ...).
+
+item.water_walking_boots.name=Водоходы
+item.uncannybaubles:water_walking_boots.info=Наделяет возможностью ходить по поверхности воды.
+
+item.lava_walking_boots.name=Лаваходы
+item.uncannybaubles:lava_walking_boots.info=Наделяет возможностью ходить по поверхности воды и лавы. Выдают 7 секунд огненной неуязвимости при соприкосновении с лавой.
+
+item.lava_charm.name=Лавовый амулет
+item.uncannybaubles:lava_charm.info=Выдаёт 7 секунд огненной и лавовой неуязвимости. При прикосновении с лавой таймер начинает отсчёт, иначе таймер восстанавливается.
+
+item.eternal_steak.name=Сырой вечный стейк
+item.eternal_cooked_steak.name=Вечный стейк
+item.uncannybaubles:eternal_steak.info=Жуй хоть круглый год, всё равно не станет меньше.
+item.uncannybaubles:eternal_steak.cooldown=§bПерезарядка: %d с
+
+item.kitty_slippers.name=Кошачьи тапочки
+item.uncannybaubles:kitty_slippers.info=Криперы будут убегать в страхе и не смеют взрываться. При уроне мяукают.
+
+item.fierce_kitty_slippers.name=Свирепые кошачьи тапочки
+item.uncannybaubles:fierce_kitty_slippers.info=Как кошачьи тапочки, но с 10% шансом вы получите 1 урон и они отключатся.
+
+item.lucky_horseshoe.name=Счастливая подкова
+item.uncannybaubles:lucky_horseshoe.info=Наделяет полной неуязвимостью к урону от падения.
+
+item.cross_necklace.name=Крестик на цепочке
+item.uncannybaubles:cross_necklace.info=Удваивает кадры неуязвимости.
+
+item.hermes_boots.name=Гермесовы ботинки
+item.uncannybaubles:hermes_boots.info=Постепенно увеличивают скорость при передвижении. Увеличивают высоту шага до 1 блока.
+
+item.broken_ankh.name=Сломанный анкх
+item.uncannybaubles:broken_ankh.info=Спасает от смертельного удара, накладывая положительные эффекты, после чего уходит на получасовую перезарядку.
+item.uncannybaubles:broken_ankh.cooldown=§bПерезарядка: %d:%02d
+
+item.digging_claws.name=Когти для копания
+item.uncannybaubles:digging_claws.info=Наделяют способностью копать каменные блоки голыми руками.\nИзредка выпадают из каменных блоков.
+
+uncannybaubles.fierce_kitty_slippers.cooldown=§cПерезарядка свирепых кошачьих тапочек: %d:%02d
+
+emi.lucky_clover.desc=Наделяет дополнительным уровнем зачарований: удача, добыча, забой. Также с существ выпадают дополнительные вещи.
+emi.lucky_clover.obtain=Способ приобретения:\nВыпадает из любых существ с шансом 0.1%.
+
+emi.bezoar.desc=Наделяет иммунитетом к отравлению.
+emi.bezoar.obtain=Способ приобретения:\nВыпадает из пауков с шансом 1%.
+
+emi.regen_bracelet.desc=Увеличивает скорость регенерации на 25% (1 браслет: x1.25; 2 браслета: x1.5625; ...).
+emi.regen_bracelet.obtain=Способ приобретения:\nГенерируется в сундуках ведьминских хижин\nВыпадает из ведьм с шансом 10%.
+
+emi.magnet.desc=Притягивает предметы.
+emi.magnet.obtain=Способ приобретения:\nМожет быть создан.
+
+emi.water_walking_boots.desc=Наделяет возможностью ходить по поверхности воды.
+emi.water_walking_boots.obtain=Способ приобретения:\nМогут быть выловлены во время рыбалки.
+
+emi.lava_walking_boots.desc=Наделяет возможностью ходить по поверхности воды и лавы.\nВыдают 7 секунд огненной неуязвимости при соприкосновении с лавой.
+emi.lava_walking_boots.obtain=Способ приобретения:\nМогут быть созданы из водоходов и лавового амулета.
+
+emi.lava_charm.desc=Выдаёт 7 секунд огненной и лавовой неуязвимости.\nПри прикосновении с лавой таймер начинает отсчёт, иначе таймер восстанавливается.
+emi.lava_charm.obtain=Способ приобретения:\nВыпадает из огненных элементалей с шансом 1%.\nГенерируется в сундуках адских крепостей.
+
+emi.bottled_cloud.desc=Наделяет способностью совершать двойной прыжок.
+emi.bottled_cloud.obtain=Способ приобретения:Может быть создано\nГенерируется в сундуках подземных данжей, заброшенных шахт и пустынных храмов.
+
+emi.pocket_piston.desc=Увеличивает дистанцию взаимодействия на 1 блок.
+emi.pocket_piston.obtain=Способ приобретения:\nГенерируется в сундуках деревенских кузниц.
+
+emi.kitty_slippers.desc=Криперы будут убегать в страхе и не смеют взрываться. При уроне мяукают... или же это вы мяукаете.
+emi.kitty_slippers.obtain=Способ приобретения:\nГенерируются в сундуках пустынных и джунглевых храмов.
+
+emi.fierce_kitty_slippers.desc=Как кошачьи тапочки, но с 10% шансом вы получите 1 урон и они отключатся.
+emi.fierce_kitty_slippers.obtain=Способ приобретения:\nГенерируются в сундуках подземных данжей поверхности.
+
+emi.eternal_steak.desc=Жуй хоть круглый год, всё равно не станет меньше. Перезарядка 15 секунд.
+emi.eternal_steak.obtain=Способ приобретения:\nВыпадает из коров с шансом 0.2%.\nМожет быть куплен мясника.
+
+emi.lucky_horseshoe.desc=Наделяет полной неуязвимостью к урону от падения.
+emi.lucky_horseshoe.obtain=Способ приобретения:\nВыпадает из лошадей с шансом 5%.
+
+emi.cross_necklace.desc=Удваивает кадры неуязвимости.
+emi.cross_necklace.obtain=Способ приобретения:\nВыпадает из древних костяных лордов с шансом 5%.
+
+emi.hermes_boots.desc=Постепенно увеличивают скорость при передвижении.\nУвеличивают высоту шага до 1 блока.
+emi.hermes_boots.obtain=Способ приобретения:\nВыпадает из фазовых пауков с шансом 3%.
+
+emi.broken_ankh.desc=Спасает от смертельного удара, накладывая поглощения IV, регенерацию III и сопротивление III на 11 секунд, после чего уходит на получасовую перезарядку.
+emi.broken_ankh.obtain=Способ приобретения:\nМожет быть создан.
+
+emi.digging_claws.desc=Наделяют способностью копать каменные блоки голыми руками.\nИзредка выпадает из любого каменного блока. Изредка выпадают из каменных блоков.
+emi.digging_claws.obtain=Способ приобретения:\nВыпадают из каменных блоков с щансом 1%.
+
+config.tab.drops=Вероятность выпадения
+config.tab.chests=Вероятность генерации
+config.tab.other=Прочие настройки
+
+config.name.uncannybaubles.luckyCloverDropProbability=Четырёхлистный клевер
+config.comment.uncannybaubles.luckyCloverDropProbability=Шанс выпадения с существ
+
+config.name.uncannybaubles.spiderBezoarDropProbability=Безоар
+config.comment.uncannybaubles.spiderBezoarDropProbability=Шанс выпадения с пауков
+
+config.name.uncannybaubles.fireElementalLavaCharmDropProbability=Лавовый амулет
+config.comment.uncannybaubles.fireElementalLavaCharmDropProbability=Шанс выпадения с огненных элементалей
+
+config.name.uncannybaubles.witchRegenRingDropProbability=Браслеты регенерации
+config.comment.uncannybaubles.witchRegenRingDropProbability=Шанс выпадения с ведьм
+
+config.name.uncannybaubles.cowEternalSteakDropProbability=Вечный стейк
+config.comment.uncannybaubles.cowEternalSteakDropProbability=Шанс выпадения с коров
+
+config.name.uncannybaubles.horseLuckyHorseshoeDropProbability=Счастливая подкова
+config.comment.uncannybaubles.horseLuckyHorseshoeDropProbability=Шанс выпадения с лошадей
+
+config.name.uncannybaubles.ancientBoneLordNecklaceDropProbability=Крестик на цепочке
+config.comment.uncannybaubles.ancientBoneLordNecklaceDropProbability=Шанс выпадения с древнего костяного лорда
+
+config.name.uncannybaubles.hermesBootsPhaseSpiderDropProbability=Гермесовы ботинки
+config.comment.uncannybaubles.hermesBootsPhaseSpiderDropProbability=Шанс выпадения с фазовых пауков
+
+config.name.uncannybaubles.diggingClawsStoneDropProbability=Когти для копания
+config.comment.uncannybaubles.diggingClawsStoneDropProbability=Шанс выпадения из каменных блоков
+
+config.name.uncannybaubles.kittySlippersTempleChestProbability=Кошачьи тапочки
+config.comment.uncannybaubles.kittySlippersTempleChestProbability=Шанс генерации в сундуках пустынных и джунглевых храмов
+
+config.name.uncannybaubles.fierceKittySlippersDungeonChestProbability=Свирепые Кошачьи тапочки
+config.comment.uncannybaubles.fierceKittySlippersDungeonChestProbability=Шанс генерации в сундуках подземных данжей поверхности
+
+config.name.uncannybaubles.pocketPistonBlacksmithChestProbability=Карманный поршень
+config.comment.uncannybaubles.pocketPistonBlacksmithChestProbability=Шанс генерации в сундуках деревенских кузниц
+
+config.name.uncannybaubles.lavaCharmFortressChestProbability=Лавовый амулет
+config.comment.uncannybaubles.lavaCharmFortressChestProbability=Шанс генерации в сундуках адских крепостей
+
+config.name.uncannybaubles.bottledCloudDungeonChestProbability=Облако в бутылке
+config.comment.uncannybaubles.bottledCloudDungeonChestProbability=Шанс генерации в сундуках
+
+config.name.uncannybaubles.regenRingSwampHutChestProbability=Браслет регенерации
+config.comment.uncannybaubles.regenRingSwampHutChestProbability=Шанс генерации в сундуках ведьминских хижины
+
+config.name.uncannybaubles.waterWalkerFishingProbability=Водоходы
+config.comment.uncannybaubles.waterWalkerFishingProbability=Шанс выловить при рыбалке
+
+config.name.uncannybaubles.eternalSteakCooldownTicks=Вечный стейк
+config.comment.uncannybaubles.eternalSteakCooldownTicks=Перезарядка в тиках (20 тиков = 1 секунда)
