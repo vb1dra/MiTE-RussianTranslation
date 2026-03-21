@@ -1,0 +1,88 @@
+## private
+manyLib.gui.button.controls=Управление ManyLib
+manyLib.gui.button.controls.comment=Нажмите для управления клавишами
+manyLib.gui.button.options=Параметры ManyLib
+manyLib.gui.button.pageUp=Выше
+manyLib.gui.button.pageDown=Ниже
+manyLib.gui.button.search=Поиск
+manyLib.gui.button.reset=Сбросить
+manyLib.gui.button.reset_all=Сбросить всё
+manyLib.gui.button.keySettings=Настройки клавиш
+manyLib.gui.button.other_mods=Другие моды
+
+manyLib.gui.button.hover.hold_shift_for_info=§oУдерживайте Shift для подробной информации§r
+
+manyLib.gui.reset_hotkeys_question=Вы точно хотите сбросить горячие клавиши?
+manyLib.gui.reset_values_question=Вы точно хотите сбросить значения?
+manyLib.gui.reset_tab_question=Вы точно хотите сбросить конфиги?
+manyLib.gui.title.options=Параметры ManyLib
+manyLib.gui.title.controls=Управление ManyLib
+manyLib.gui.title.keySettings=Настройки клавиш
+manyLib.gui.title.globalSearching=Глобальный поиск
+manyLib.gui.title.selectColor=Выбор цвета
+manyLib.gui.title.editStringList=Редактировать строковый список
+manyLib.gui.configuring=Настроить
+manyLib.gui.rightClickToCopy=ПКМ для копирования
+
+manyLib.gui.comment.available_values=Доступные значения
+manyLib.gui.comment.clickToSelectColor=Нажмите для выбора цвета
+manyLib.gui.comment.clickToEditStringList=Нажмите для редактирования строкового списка
+
+manyLib.configToggle.toggle=%s изменён на: %s
+
+manyLib.message.formatting_code.error=§c
+manyLib.message.formatting_code.info=§f
+manyLib.message.formatting_code.success=§a
+manyLib.message.formatting_code.warning=§6
+
+manyLib.keybind.settings=Настройки клавиш
+manyLib.keybind.settings.activate_on=Активация включена
+manyLib.keybind.settings.context=Контекст
+manyLib.keybind.settings.allow_empty=Разрешить пустые
+manyLib.keybind.settings.allow_extra_keys=Разрешить дополнительные клавиши
+manyLib.keybind.settings.order_sensitive=Учитывать порядок
+manyLib.keybind.settings.exclusive=Исключительно
+manyLib.keybind.settings.cancel=Отмена
+
+## configs
+config.name.manyLib.openMenu=Открыть меню ManyLib
+config.comment.manyLib.openMenu=Отображать конфиг ManyLib
+config.name.manyLib.openModMenu=Открыть меню модов ManyLib
+config.comment.manyLib.openModMenu=Отображать меню модов, использующих ManyLib
+config.name.manyLib.searchAny=Искать в глобальных конфигах ManyLib
+config.comment.manyLib.searchAny=Искать относящиеся к ManyLib конфиги модов
+config.name.manyLib.hideValueButton=Скрыть кнопку конфига
+config.comment.manyLib.hideValueButton=Скрывает кнопку, добавленную в главное меню и меню паузы. Стоит скрыть, если используется ModMenu
+config.name.manyLib.hoverInfoY=Отображение информации по Y
+config.comment.manyLib.hoverInfoY=Отсчитывать от нижней границы
+config.comment.manyLib.sortCategory=Сортировка
+config.enum.manyLib.sortCategory.Default=По умолчанию
+config.enum.manyLib.sortCategory.PinYin=Китайский PinYin
+config.enum.manyLib.sortCategory.Alphabetical=По алфавиту
+config.enum.manyLib.sortCategory.Inverted=Обратный порядок
+config.name.manyLib.highlightColor=Подсвечивать цвет
+config.name.manyLib.titleFormat=Формат заголовка
+config.name.manyLib.autoSaveLoad=Автосохранение
+config.comment.manyLib.autoSaveLoad=Читать конфиг во время захода в мир и сохранять во время выхода (Работает для всех)
+
+config.menu.comment.ManyLib=Нажмите, чтобы скрыть кнопку ManyLib.\nВы всё ещё можете открыть по нажатию %s
+
+## generic
+config.tab.generic=Общие
+config.tab.hotkey=Настройки горячих клавиш
+
+toggle.on=Вкл.
+toggle.off=Откл.
+
+boolean.true=Да
+boolean.false=Нет
+
+color.alpha=Прозрачность
+color.red=§cКрасный
+color.green=§aЗелёный
+color.blue=§9Синий
+color.hue=Hue
+color.saturation=Насыщенность
+color.brightness=Яркость
+
+list.empty=Пустой список

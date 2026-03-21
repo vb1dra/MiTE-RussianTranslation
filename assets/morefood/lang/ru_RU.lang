@@ -1,0 +1,82 @@
+item.IronKitchenKnife.name=Железный кухонный нож
+item.FlintKitchenKnife.name=Кремневый кухонный нож
+
+item.grass_salad.name=Миска травяного салата
+item.bowl_melon_salad.name=Миска арбузного салата
+item.bowl_carrot_soup.name=Миска морковного супа
+item.bowl_cactus_soup.name=Миска кактусового супа
+item.bowl_netherStalkSeeds_soup.name=Миска адско-наростового супа
+item.lampchop_stew.name=Миска тушёной баранины
+item.porkchop_stew.name=Миска тушёной свинины
+item.bowl_fruit_salad.name=Миска фруктового салата
+item.bowl_horsemeat_stew.name=Миска тушёной конины
+item.seafood_feast.name=Миска морского ассорти
+
+item.bucketCopperApple.name=Медное ведро яблочного сока
+item.bucketSilverApple.name=Серебряное ведро яблочного сока
+item.bucketIronApple.name=Железное ведро яблочного сока
+item.bucketAdamantiumApple.name=Адамантиумовое ведро яблочного сока
+item.bucketMithrilApple.name=Мифриловое ведро яблочного сока
+item.bucketAncientMetalApple.name=Древнее металлическое ведро яблочного сока
+item.bucketGoldMetalApple.name=Золотое ведро яблочного сока
+item.horse_meat.name=Сырая конина
+item.horse_meat_cooked.name=Жареная конина
+
+item.bacon.name=Сырой бекон
+item.cooked_bacon.name=Жареный бекон
+
+item.fried_egg.name=Яичница
+
+item.prok_eggs.name=Яичница с беконом
+item.chicken_sandwich.name=Куриный бутерброд
+item.egg_sandwich.name=Яичный бутерброд
+item.hamburger.name=Гамбургер
+item.donkey_burger.name=Ослиный бургер
+
+item.carrot_cake.name=Морковный торт
+
+item.apple_pie.name=Яблочный пирог
+item.blueberry_pie.name=Голубичный пирог
+item.shepherds_pie.name=Пастуший пирог
+item.stargazy_pie.name=Рыбный пирог
+
+item.roastedseeds.name=Жареные семечки
+
+item.jelly.name=Зелёное желе
+item.meat_jelly.name=Зельц
+
+item.squid_meat.name=Щупальце спрута
+item.squid_meat_cooked.name=Жареное щупальце спрута
+
+item.chores.name=Смесь мясных обрезков
+item.mutton_nugget.name=Бараньи наггетсы
+item.beef_nugget.name=Говяжьи наггетсы
+item.kebabs.name=Кебаб
+item.cooked_chicken_skewer.name=Жареный куриный шашлык
+item.squid_sashimi.name=Спрутовое сашими
+item.squid_sashimi_cooked.name=Жареный спрут
+item.bread_zip.name=Спрессованный хлеб
+item.baguette.name=Багет
+item.dried_flesh.name=Вяленая плоть
+item.lollipop.name=Леденец
+item.stuffed_potato.name=Фаршированный картофель
+
+item.raw_pasta.name=Сырые макароны
+item.raw_pasta_cooked.name=Жареные макароны
+item.squid_ink_pasta.name=Чернильные макароны
+
+item.ancient_metal_melon_slice.name=Древний металлический арбуз
+item.cooked_carrot.name=Печёная морковь
+item.ice_tea.name=Холодный чай
+
+item.blaze_apple.name=Огненное золотое яблоко
+item.bedrock_apple.name=Коренное яблоко
+item.ancient_metal_apple.name=Древнее металлическое яблоко
+
+item.morefood:food/blaze_apple.info=При поедании наделяет эффектами сопротивления и силы на 1 минуту
+item.morefood:food/bread_zip.info=При поедании наделяет эффектами насыщенности на 4 минуты и спешки на 1 минуту
+item.morefood:food/ancient_metal_melon_slice.info=При поедании наделяет эффектом спешки II на 8 минут
+item.morefood:food/stargazy_pie.info=Очень хорош
+item.morefood:food/ice_tea.info=Мужик! Можно найти в сундуках адской крепости или выловить на рыбалке
+
+itemGroup.MoreFood=More Food

@@ -1,0 +1,865 @@
+menu.title=Игровое меню
+menu.singleplayerDS=Host World
+
+chat.link.confirmTrusted=Посетить эту ссылку?
+chat.link.open=Открыть в браузере
+
+invalidWorld.outdated=Устаревший мир
+invalidWorld.incompatible=Несовместимый мир
+invalidWorld.needsRelease=Необходима версия R%d+
+
+key.toggleRun=Бег
+key.zoom=Приблизить
+key.redrawChunks=Перерисовать чанки
+
+gui.nextPage=Далее
+gui.toMenu=В главное меню
+
+gui.achievement.see=Посмотреть '%1$s'
+gui.achievement.takenBy=Выполнено %1$s!
+gui.achievements.reset=Сбросить
+
+gui.stats.player=Игрок
+gui.stats.thisWorld=Мир
+gui.stats.allWorlds=Все миры
+
+stat.startGame=Заходов в игру
+stat.createWorld=Миров создано
+stat.loadWorld=Сохранений загружено
+stat.joinMultiplayer=Заходов в многопользовательскую игру
+stat.leaveGame=Выходов из игры
+
+deathScreen.respawnCountdown=Секунд до авто-возрождения:
+
+selectWorld.skills=Ремёсла
+selectWorld.professions=Профессии:
+selectWorld.professions.info=Шахтерство, фермерство, стрельба и т.д.
+options.enabled=Включено
+options.disabled=Отключено
+
+options.difficulty.hard=Экстремальная
+performance.enhanced=Улучшенная
+addServer.title.add=Добавить данные сервера
+addServer.title.edit=Изменить данные сервера
+selectServer.add=Добавить сервер
+selectServer.info=Информация
+selectServer.list=Список
+selectServer.website=Сайт
+gameMode.cannotBeChanged=Ваш игровой режим не может быть изменён
+gameMode.hardcore=Хардкор!
+commands.gamemode.fail.self=Не удалось изменить игровой режим на %s
+commands.gamemode.fail.other=Не удалось изменить игровой режим %s на %s
+commands.publish.failed=Нельзя открыть для локальной сети в режиме турнира
+
+deathScreen.deleteWorld=Удалить мир
+deathScreen.titleScreen=Главное меню
+deathScreen.leaveServer=Leave Server
+
+effect.malnourished=Истощение
+effect.malnourished.slowHealing=Медленное исцеление
+effect.malnourished.plus50PercentHunger=+50% к голоду
+effect.malnourished.general=Питайтесь более сбалансированно,|чтобы избежать дефицита веществ.
+effect.malnourished.protein=Вам очень хочется|мяса и молочных продуктов.
+effect.malnourished.phytonutrients=Вам очень хочется|фруктов и овощей.
+effect.insulinResistance=Непереносимость сахара
+effect.insulinResistance.mild=Вы плохо себя чувствуете|после сладкой еды.
+effect.insulinResistance.moderate=Ваш организм не способен|усваивать сахар.
+effect.insulinResistance.severe=Вам становится плохо|после сладкой еды.
+effect.cursed=Проклят
+
+curse.notify=Вас прокляли
+curse.lifted=Ваше проклятье спало
+
+curse.unknown=Неизвестное проклятье
+curse.equipmentDecay.name=Проклятье гниения
+curse.equipmentDecay.desc=Ваше снаряжение ломается|быстрее обычного.
+curse.cantHoldBreath.name=Проклятье гипервентиляции
+curse.cantHoldBreath.desc=Вы не можете долго|задерживать дыхание.
+curse.cantRun.name=Проклятье атаксии
+curse.cantRun.desc=Ноги не слушаются вас,|когда вы пытаетесь бежать.
+curse.cantEatAnimals.name=Проклятье веганства
+curse.cantEatAnimals.desc=Вы не можете заставить себя есть|мясо и продукты животного происхождения.
+curse.cantEatPlants.name=Проклятье зверя
+curse.cantEatPlants.desc=Вы не можете заставить себя есть|семена и растительную пищу.
+curse.cantDrink.name=Проклятье бешенства
+curse.cantDrink.desc=Вы не способны|пить жидкости.
+curse.endermenEnemy.name=Проклятье межизмеренческой вражды
+curse.endermenEnemy.desc=Кажется, странники Края прониклись|к вам сильной неприязнью.
+curse.clumsiness.name=Проклятье криворукости
+curse.clumsiness.desc=Всё валится из ваших рук,|а создание предметов даётся с трудом.
+curse.entanglement.name=Проклятье опутывания
+curse.entanglement.desc=Вам Крайне трудно пробираться|сквозь лианы и другие растения.
+curse.cantWearArmor.name=Проклятье нагото
+curse.cantWearArmor.desc=Вы не можете носить никакую броню.|Вера — вот ваша броня!
+curse.cantOpenChests.name=Проклятье алчности
+curse.cantOpenChests.desc=Вам не под силу|открыть крышку сундука.
+curse.cantSleep.name=Проклятье бессонницы
+curse.cantSleep.desc=Вы не можете|спать ночью.
+curse.fearOfSpiders.name=Проклятье арахнофобии
+curse.fearOfSpiders.desc=Вы боитесь пауков и с трудом|можете ударить их в ближнем бою.
+curse.fearOfWolves.name=Проклятье кинофобии
+curse.fearOfWolves.desc=Вы боитесь волков и с трудом|можете ударить их в ближнем бою.
+curse.fearOfCreepers.name=Проклятье посттравматического синдрома
+curse.fearOfCreepers.desc=Вы боитесь криперов и с трудом|можете ударить их в ближнем бою.
+curse.fearOfUndead.name=Проклятье паладиньей трусости
+curse.fearOfUndead.desc=Вы боитесь нежити и с трудом|можете ударить их в ближнем бою.
+
+skill.none=Неумёха
+
+skill.fighting=Борьба
+skill.fighting.profession=Боец
+skill.fighting.description=Бойцы получают бонус к урону в ближнем бою за каждый уровень
+
+skill.archery=Стрельба
+skill.archery.profession=Лучник
+skill.archery.description=Лучники получают бонус к меткости за каждый уровень, а также могут создавать и чинить качественные луки и стрелы
+
+skill.mining=Шахтерство
+skill.mining.profession=Шахтер
+skill.mining.description=Шахтёры могут добывать уголь и самоцветы прямо из камня, а также могут переплавлять руду
+
+skill.foodPreparation=Кулинария
+skill.foodPreparation.profession=Повар
+skill.foodPreparation.description=Повара могут готовить еду в печах и создавать сложные блюда, такие как супы, салаты и торты
+
+skill.masonry=Каменное дело
+skill.masonry.profession=Каменщик
+skill.masonry.description=Каменщики могут обрабатывать каменные блоки и стекло
+
+skill.farming=Фермерство
+skill.farming.profession=Фермер
+skill.farming.description=Фермеры могут сажать сахарный тростник, грибы и прочие культуры. Только этот класс может перерабатывать сахарный тростник
+
+skill.tinkering=Инженерия
+skill.tinkering.profession=Механик
+skill.tinkering.description=Инженеры могут создавать блоки с механизмами, такие как повторители и проигрыватели
+
+skill.carpentry=Плотничество
+skill.carpentry.profession=Плотник
+skill.carpentry.description=Плотники могут изготавливать доски и деревянные изделия, такие как заборы, кровати, ступеньки и нажимные плиты
+
+skill.blacksmithing=Кузнечное дело
+skill.blacksmithing.profession=Кузнец
+skill.blacksmithing.description=Кузнецы могут создавать и чинить качественную металлическую броню, оружие и инструменты, а также блоки металла
+
+skill.brewing=Зельеварение
+skill.brewing.profession=Алхимик
+skill.brewing.description=Алхимики могут варить зелья и делать сыр.
+
+skill.fineArts=Искусство
+skill.fineArts.profession=Ремесленник
+skill.fineArts.description=Ремесленники могут создавать предметы, такие как бумага, красители, шерсть, ковры, картины, книги, карты, цветочные горшки и т.д. Только они могут красить броню и обожжённую глину
+
+skill.enchanting=Зачарование
+skill.enchanting.profession=Заклинатель
+skill.enchanting.description=Заклинатели могут зачаровывать предметы
+
+skill.fishing=Рыболовство
+skill.fishing.profession=Рыбак
+skill.fishing.description=Рыбаки могут создавать удочки, а их шанс улова выше, чем у других классов.
+
+item.appleGold.enchanted.name=§bЗачарованное золотое яблоко
+
+item.dyePowder.name=Краситель
+item.skull.name=Череп
+
+item.beefRaw.name=Сырой стейк
+item.beefCooked.name=Жареный стейк
+
+item.cudgelWood.name=Деревянная дубинка
+item.clubWood.name=Деревянная дубина
+
+item.clubStone.name=Каменная дубина
+item.daggerStone.name=Каменный кинжал
+
+item.shovelFlint.name=Кремневая лопата
+item.knifeFlint.name=Кремневый нож
+item.hatchetFlint.name=Кремневый топорик
+item.axeFlint.name=Кремневый топор
+item.arrowFlint.name=Кремневая стрела
+
+item.shovelObsidian.name=Обсидиановая лопата
+item.knifeObsidian.name=Обсидиановый нож
+item.hatchetObsidian.name=Обсидиановый топорик
+item.axeObsidian.name=Обсидиановый топор
+item.arrowObsidian.name=Обсидиановая стрела
+
+tile.oreCopper.name=Медная руда
+tile.blockCopper.name=Медный блок
+tile.doorCopper.name=Медная дверь
+tile.fenceCopper.name=Медные прутья
+tile.anvilCopper.intact.name=Медная наковальня
+tile.anvilCopper.name=Медная наковальня
+tile.anvilCopper.slightlyDamaged.name=Повреждённая медная наковальня
+tile.anvilCopper.veryDamaged.name=Сильно повреждённая медная наковальня
+tile.chestCopper.name=Медный сейф
+item.doorCopper.name=Медная дверь
+item.copperNugget.name=Кусочек меди
+item.ingotCopper.name=Медный слиток
+item.chainCopper.name=Медная цепь
+item.pickaxeCopper.name=Медная кирка
+item.shovelCopper.name=Медная лопата
+item.hatchetCopper.name=Медный топорик
+item.axeCopper.name=Медный топор
+item.hoeCopper.name=Медная мотыга
+item.warHammerCopper.name=Медный боевой молот
+item.mattockCopper.name=Медная мотыго-лопата
+item.battleAxeCopper.name=Медный боевой топор
+item.scytheCopper.name=Медная коса
+item.swordCopper.name=Медный меч
+item.daggerCopper.name=Медный кинжал
+item.arrowCopper.name=Медная стрела
+item.knifeCopper.name=Медный нож
+item.helmetCopper.name=Медный шлем
+item.chestplateCopper.name=Медный нагрудник
+item.leggingsCopper.name=Медные поножи
+item.bootsCopper.name=Медные ботинки
+item.horsearmorcopper.name=Медная лошадиная броня
+item.helmetChainCopper.name=Медный койф
+item.chestplateChainCopper.name=Медная кольчуга
+item.leggingsChainCopper.name=Медные кольчужные поножи
+item.bootsChainCopper.name=Медные кольчужные ботинки
+item.horsearmorchaincopper.name=Медная кольчужная лошадиная броня
+item.bucketCopper.name=Медное ведро
+item.bucketCopperWater.name=Медное ведро воды
+item.bucketCopperLava.name=Медное ведро лавы
+item.bucketCopperMilk.name=Медное ведро молока
+item.bucketCopperStone.name=Медное ведро камня
+item.shearsCopper.name=Медные ножницы
+item.coinCopper.name=Медная монета
+
+tile.oreSilver.name=Серебряная руда
+tile.blockSilver.name=Серебряный блок
+tile.doorSilver.name=Серебряная дверь
+tile.fenceSilver.name=Серебряные прутья
+tile.anvilSilver.intact.name=Серебряная наковальня
+tile.anvilSilver.name=Серебряная наковальня
+tile.anvilSilver.slightlyDamaged.name=Повреждённая серебряная наковальня
+tile.anvilSilver.veryDamaged.name=Сильно повреждённая серебряная наковальня
+tile.chestSilver.name=Серебряный сейф
+item.doorSilver.name=Серебряная дверь
+item.silverNugget.name=Кусочек серебра
+item.ingotSilver.name=Серебряный слиток
+item.chainSilver.name=Серебряная цепь
+item.pickaxeSilver.name=Серебряная кирка
+item.shovelSilver.name=Серебряная лопата
+item.hatchetSilver.name=Серебряный топорик
+item.axeSilver.name=Серебряный топор
+item.hoeSilver.name=Серебряная мотыга
+item.warHammerSilver.name=Серебряный боевой молот
+item.mattockSilver.name=Серебряная мотыго-лопата
+item.battleAxeSilver.name=Серебряный боевой топор
+item.scytheSilver.name=Серебряная коса
+item.swordSilver.name=Серебряный меч
+item.daggerSilver.name=Серебряный кинжал
+item.arrowSilver.name=Серебряная стрела
+item.knifeSilver.name=Серебряный нож
+item.helmetSilver.name=Серебряный шлем
+item.chestplateSilver.name=Серебряный нагрудник
+item.leggingsSilver.name=Серебряные поножи
+item.bootsSilver.name=Серебряные ботинки
+item.horsearmorsilver.name=Серебряная лошадиная броня
+item.helmetChainSilver.name=Серебряный койф
+item.chestplateChainSilver.name=Серебряная кольчуга
+item.leggingsChainSilver.name=Серебряные кольчужные поножи
+item.bootsChainSilver.name=Серебряные кольчужные ботинки
+item.horsearmorchainsilver.name=Серебряная кольчужная лошадиная броня
+item.bucketSilver.name=Серебряное ведро
+item.bucketSilverWater.name=Серебряное ведро воды
+item.bucketSilverLava.name=Серебряное ведро лавы
+item.bucketSilverMilk.name=Серебряное ведро молока
+item.bucketSilverStone.name=Серебряное ведро камня
+item.shearsSilver.name=Серебряные ножницы
+item.coinSilver.name=Серебряная монета
+
+tile.doorGold.name=Золотая дверь
+tile.fenceGold.name=Золотые прутья
+tile.anvilGold.intact.name=Золотая наковальня
+tile.anvilGold.name=Золотая наковальня
+tile.anvilGold.slightlyDamaged.name=Повреждённая золотая наковальня
+tile.anvilGold.veryDamaged.name=Сильно повреждённая золотая наковальня
+tile.chestGold.name=Золотой сейф
+item.doorGold.name=Золотая дверь
+item.chainGold.name=Золотая цепь
+item.hatchetGold.name=Золотой топорик
+item.axeGold.name=Золотой топор
+item.warHammerGold.name=Золотой боевой молот
+item.mattockGold.name=Золотая мотыго-лопата
+item.battleAxeGold.name=Золотой боевой топор
+item.scytheGold.name=Золотая коса
+item.daggerGold.name=Золотой кинжал
+item.arrowGold.name=Золотая стрела
+item.knifeGold.name=Золотой нож
+item.helmetChainGold.name=Золотой койф
+item.chestplateChainGold.name=Золотая кольчуга
+item.leggingsChainGold.name=Золотые кольчужные поножи
+item.bootsChainGold.name=Золотые кольчужные ботинки
+item.horsearmorchaingold.name=Золотая кольчужная лошадиная броня
+item.bucketGold.name=Золотое ведро
+item.bucketGoldWater.name=Золотое ведро воды
+item.bucketGoldLava.name=Золотое ведро лавы
+item.bucketGoldMilk.name=Золотое ведро молока
+item.bucketGoldStone.name=Золотое ведро камня
+item.shearsGold.name=Золотые ножницы
+item.coinGold.name=Золотая монета
+
+tile.anvilIron.intact.name=Железная наковальня
+tile.anvilIron.name=Железная наковальня
+tile.anvilIron.slightlyDamaged.name=Повреждённая железная наковальня
+tile.anvilIron.veryDamaged.name=Сильно повреждённая железная наковальня
+tile.chestIron.name=Железный сейф
+item.ironNugget.name=Кусочек Железа
+item.chainIron.name=Железная цепь
+item.hatchetIron.name=Железный топорик
+item.axeIron.name=Железный топор
+item.warHammerIron.name=Железный боевой молот
+item.mattockIron.name=Железная мотыго-лопата
+item.battleAxeIron.name=Железный боевой топор
+item.scytheIron.name=Железная коса
+item.daggerIron.name=Железный кинжал
+item.arrowIron.name=Железная стрела
+item.knifeIron.name=Железный нож
+item.helmetChainIron.name=Железный койф
+item.chestplateChainIron.name=Железная кольчуга
+item.leggingsChainIron.name=Железные кольчужные поножи
+item.bootsChainIron.name=Железные кольчужные ботинки
+item.horsearmorchainiron.name=Железная кольчужная лошадиная броня
+item.bucket.name=Железное ведро
+item.bucketWater.name=Железное ведро воды
+item.bucketLava.name=Железное ведро лавы
+item.milk.name=Железное ведро молока
+item.bucketIronStone.name=Железное ведро камня
+item.shears.name=Железные ножницы
+
+tile.oreMithril.name=Мифриловая руда
+tile.blockMithril.name=Мифриловый блок
+tile.doorMithril.name=Мифриловая дверь
+tile.fenceMithril.name=Мифриловые прутья
+tile.anvilMithril.intact.name=Мифриловая наковальня
+tile.anvilMithril.name=Мифриловая наковальня
+tile.anvilMithril.slightlyDamaged.name=Повреждённая мифриловая наковальня
+tile.anvilMithril.veryDamaged.name=Сильно повреждённая мифриловая наковальня
+tile.chestMithril.name=Мифриловый сейф
+item.doorMithril.name=Мифриловая дверь
+item.mithrilNugget.name=Кусочек мифрила
+item.ingotMithril.name=Мифриловый слиток
+item.chainMithril.name=Мифриловая цепь
+item.pickaxeMithril.name=Мифриловая кирка
+item.shovelMithril.name=Мифриловая лопата
+item.hatchetMithril.name=Мифриловый топорик
+item.axeMithril.name=Мифриловый топор
+item.hoeMithril.name=Мифриловая мотыга
+item.warHammerMithril.name=Мифриловый боевой молот
+item.mattockMithril.name=Мифриловая мотыго-лопата
+item.battleAxeMithril.name=Мифриловый боевой топор
+item.scytheMithril.name=Мифриловая коса
+item.swordMithril.name=Мифриловый меч
+item.daggerMithril.name=Мифриловый кинжал
+item.arrowMithril.name=Мифриловая стрела
+item.knifeMithril.name=Мифриловый нож
+item.bowMithril.name=Мифриловый лук
+item.helmetMithril.name=Мифриловый шлем
+item.chestplateMithril.name=Мифриловый нагрудник
+item.leggingsMithril.name=Мифриловые поножи
+item.bootsMithril.name=Мифриловые ботинки
+item.horsearmormithril.name=Мифриловая лошадиная броня
+item.helmetChainMithril.name=Мифриловый койф
+item.chestplateChainMithril.name=Мифриловая кольчуга
+item.leggingsChainMithril.name=Мифриловые кольчужные поножи
+item.bootsChainMithril.name=Мифриловые кольчужные ботинки
+item.horsearmorchainmithril.name=Мифриловая кольчужная лошадиная броня
+item.bucketMithril.name=Мифриловое ведро
+item.bucketMithrilWater.name=Мифриловое ведро воды
+item.bucketMithrilLava.name=Мифриловое ведро лавы
+item.bucketMithrilMilk.name=Мифриловое ведро молока
+item.bucketMithrilStone.name=Мифриловое ведро камня
+item.shearsMithril.name=Мифриловые ножницы
+item.coinMithril.name=Мифриловая монета
+
+tile.oreAdamantium.name=Адамантиумовая руда
+tile.blockAdamantium.name=Адамантиумовый блок
+tile.doorAdamantium.name=Адамантиумовая дверь
+tile.fenceAdamantium.name=Адамантиумовые прутья
+tile.anvilAdamantium.intact.name=Адамантиумовая наковальня
+tile.anvilAdamantium.name=Адамантиумовая наковальня
+tile.anvilAdamantium.slightlyDamaged.name=Повреждённая адамантиумовая наковальня
+tile.anvilAdamantium.veryDamaged.name=Сильно повреждённая адамантиумовая наковальня
+tile.chestAdamantium.name=Адамантиумовый сейф
+item.doorAdamantium.name=Адамантиумовая дверь
+item.adamantiumNugget.name=Кусочек адамантиума
+item.ingotAdamantium.name=Адамантиумовый слиток
+item.chainAdamantium.name=Адамантиумовая цепь
+item.pickaxeAdamantium.name=Адамантиумовая кирка
+item.shovelAdamantium.name=Адамантиумовая лопата
+item.hatchetAdamantium.name=Адамантиумовый топорик
+item.axeAdamantium.name=Адамантиумовый топор
+item.hoeAdamantium.name=Адамантиумовая мотыга
+item.warHammerAdamantium.name=Адамантиумовый боевой молот
+item.mattockAdamantium.name=Адамантиумовая мотыго-лопата
+item.battleAxeAdamantium.name=Адамантиумовый боевой топор
+item.scytheAdamantium.name=Адамантиумовая коса
+item.swordAdamantium.name=Адамантиумовый меч
+item.daggerAdamantium.name=Адамантиумовый кинжал
+item.arrowAdamantium.name=Адамантиумовая стрела
+item.knifeAdamantium.name=Адамантиумовый нож
+item.helmetAdamantium.name=Адамантиумовый шлем
+item.chestplateAdamantium.name=Адамантиумовый нагрудник
+item.leggingsAdamantium.name=Адамантиумовые поножи
+item.bootsAdamantium.name=Адамантиумовые ботинки
+item.horsearmoradamantium.name=Адамантиумовая лошадиная броня
+item.helmetChainAdamantium.name=Адамантиумовый койф
+item.chestplateChainAdamantium.name=Адамантиумовая кольчуга
+item.leggingsChainAdamantium.name=Адамантиумовые кольчужные поножи
+item.bootsChainAdamantium.name=Адамантиумовые кольчужные ботинки
+item.horsearmorchainadamantium.name=Адамантиумовая кольчужная лошадиная броня
+item.bucketAdamantium.name=Адамантиумовое ведро
+item.bucketAdamantiumWater.name=Адамантиумовое ведро воды
+item.bucketAdamantiumLava.name=Адамантиумовое ведро лавы
+item.bucketAdamantiumMilk.name=Адамантиумовое ведро молока
+item.bucketAdamantiumStone.name=Адамантиумовое ведро камня
+item.shearsAdamantium.name=Адамантиумовые ножницы
+item.coinAdamantium.name=Адамантиумовая монета
+
+item.chainRustedIron.name=Ржавая железная цепь
+item.pickaxeRustedIron.name=Ржавая железная кирка
+item.shovelRustedIron.name=Ржавая железная лопата
+item.hatchetRustedIron.name=Ржавый железный топорик
+item.axeRustedIron.name=Ржавый железный топор
+item.hoeRustedIron.name=Ржавая железная мотыга
+item.warHammerRustedIron.name=Ржавый железный боевой молот
+item.mattockRustedIron.name=Ржавая железная мотыго-лопата
+item.battleAxeRustedIron.name=Ржавый железный боевой топор
+item.scytheRustedIron.name=Ржавая железная коса
+item.swordRustedIron.name=Ржавый железный меч
+item.daggerRustedIron.name=Ржавый железный кинжал
+item.arrowRustedIron.name=Ржавая железная стрела
+item.knifeRustedIron.name=Ржавый железный нож
+item.helmetRustedIron.name=Ржавый железный шлем
+item.chestplateRustedIron.name=Ржавый железный нагрудник
+item.leggingsRustedIron.name=Ржавые железные поножи
+item.bootsRustedIron.name=Ржавые железные ботинки
+item.helmetChainRustedIron.name=Ржавый железный койф
+item.chestplateChainRustedIron.name=Ржавая железная кольчуга
+item.leggingsChainRustedIron.name=Ржавые железные кольчужные поножи
+item.bootsChainRustedIron.name=Ржавые железные кольчужные ботинки
+item.shearsRustedIron.name=Ржавые железные ножницы
+
+tile.blockAncientMetal.name=Блок древнего металла
+tile.doorAncientMetal.name=Древняя металлическая дверь
+tile.fenceAncientMetal.name=Древние металлические прутья
+tile.anvilAncientMetal.intact.name=Древняя металлическая наковальня
+tile.anvilAncientMetal.name=Древняя металлическая наковальня
+tile.anvilAncientMetal.slightlyDamaged.name=Повреждённая древняя металлическая наковальня
+tile.anvilAncientMetal.veryDamaged.name=Сильно повреждённая древняя металлическая наковальня
+tile.chestAncientMetal.name=Древний металлический сейф
+item.doorAncientMetal.name=Древняя металлическая дверь
+item.ancientMetalNugget.name=Кусочек древнего металла
+item.ingotAncientMetal.name=Древний металлический слиток
+item.chainAncientMetal.name=Древняя металлическая цепь
+item.pickaxeAncientMetal.name=Древняя металлическая кирка
+item.shovelAncientMetal.name=Древняя металлическая лопата
+item.hatchetAncientMetal.name=Древний металлический топорик
+item.axeAncientMetal.name=Древний металлический топор
+item.hoeAncientMetal.name=Древняя металлическая мотыга
+item.warHammerAncientMetal.name=Древний металлический боевой молот
+item.mattockAncientMetal.name=Древняя металлическая мотыго-лопата
+item.battleAxeAncientMetal.name=Древний металлический боевой топор
+item.scytheAncientMetal.name=Древняя металлическая коса
+item.swordAncientMetal.name=Древний металлический меч
+item.daggerAncientMetal.name=Древний металлический кинжал
+item.arrowAncientMetal.name=Древняя металлическая стрела
+item.knifeAncientMetal.name=Древний металлический нож
+item.bowAncientMetal.name=Древний металлический лук
+item.helmetAncientMetal.name=Древний металлический шлем
+item.chestplateAncientMetal.name=Древний металлический нагрудник
+item.leggingsAncientMetal.name=Древние металлические поножи
+item.bootsAncientMetal.name=Древние металлические ботинки
+item.horsearmorancientmetal.name=Древняя металлическая лошадиная броня
+item.helmetChainAncientMetal.name=Древний металлический койф
+item.chestplateChainAncientMetal.name=Древняя металлическая кольчуга
+item.leggingsChainAncientMetal.name=Древние металлические кольчужные поножи
+item.bootsChainAncientMetal.name=Древние металлические кольчужные ботинки
+item.horsearmorchainancientmetal.name=Древняя металлическая кольчужная лошадиная броня
+item.bucketAncientMetal.name=Древнее металлическое ведро
+item.bucketAncientMetalWater.name=Древное металлическое ведро воды
+item.bucketAncientMetalLava.name=Древное металлическое ведро лавы
+item.bucketAncientMetalMilk.name=Древное металлическое ведро молока
+item.bucketAncientMetalStone.name=Древное металлическое ведро камня
+item.shearsAncientMetal.name=Древние металлические ножницы
+item.coinAncientMetal.name=Древняя металлическая монета
+
+item.gelatinousSphere.name=Желатиновая сфера
+item.gelatinousSphere.green.name=Зелёный слайм
+item.gelatinousSphere.ochre.name=Охровое желе
+item.gelatinousSphere.crimson.name=Багровый сгусток
+item.gelatinousSphere.gray.name=Серая слизь
+item.gelatinousSphere.black.name=Чёрный пудинг
+
+item.shardGlass.name=Осколок стекла
+item.shardNetherQuartz.name=Осколок кварца
+item.shardEmerald.name=Осколок изумруда
+item.shardDiamond.name=Осколок алмаза
+item.chipFlint.name=Осколок кремня
+item.shardObsidian.name=Осколок обсидиана
+
+item.bowlMilk.name=Миска молока
+item.bowlWater.name=Миска воды
+
+item.lambchopRaw.name=Сырая баранина
+item.lambchopCooked.name=Жареная баранина
+
+item.sinew.name=Жила
+
+item.cheese.name=Сыр
+item.flour.name=Мука
+item.dough.name=Тесто
+item.chocolate.name=Шоколад
+item.onion.name=Лук
+item.beefStew.name=Миска тушёной говядины
+item.chickenSoup.name=Миска куриного супа
+item.vegetableSoup.name=Миска овощного супа
+item.manure.name=Навоз
+
+item.iceCream.name=Миска мороженого
+item.salad.name=Миска салата
+
+item.bottleOfDisenchanting.name=Пузырёк расколдовывания
+
+item.creamOfMushroomSoup.name=Миска грибного супа-пюре
+item.creamOfVegetableSoup.name=Миска овощного супа-пюре
+
+item.pumpkinSoup.name=Миска тыквенного супа
+
+item.orange.name=Апельсин
+item.banana.name=Банан
+
+item.mashedPotato.name=Миска картофельного пюре
+item.sorbet.name=Миска сорбета
+
+item.blueberries.name=Голубика
+item.porridge.name=Миска каши
+item.cereal.name=Миска хлопьев
+
+item.wormRaw.name=Червь
+item.wormCooked.name=Жареный червь
+
+tile.snow.slab.name=Снежная плита
+tile.snow.block.name=Снег
+
+tile.slab.group1.name=Каменная плита
+tile.slab.group2.name=Деревянная плита
+tile.slab.group3.name=Обсидиановая плита
+
+tile.slab.group1.stone.name=Каменная плита
+tile.slab.group1.sand.name=Песчаниковая плита
+tile.slab.group1.wood.name=Деревянная плита
+tile.slab.group1.cobble.name=булыжниковая плита
+tile.slab.group1.brick.name=Кирпичная плита
+tile.slab.group1.smoothStoneBrick.name=Плита из каменных кирпичей
+tile.slab.group1.netherBrick.name=Плита из адского кирпича
+tile.slab.group1.quartz.name=Кварцевая плита
+tile.slab.group2.oak.name=Дубовая плита
+tile.slab.group2.spruce.name=Еловая плита
+tile.slab.group2.birch.name=Берёзовая плита
+tile.slab.group2.jungle.name=Тропическая плита
+
+tile.gravelNether.name=Адский гравий
+tile.witherwood.name=Иссушающий куст
+
+tile.dandelion.name=Одуванчик
+tile.flower.rose.name=Роза
+tile.flower.orchid.name=Орхидея
+tile.flower.allium.name=Аллий
+tile.flower.tulip.name=Тюльпан
+tile.flower.dahlia.name=Георгин
+tile.flower.daisy.name=Маргаритка
+
+tile.furnace.name=Каменная печь
+
+tile.furnaceClay.name=Глиняная печка
+tile.furnaceHardenedClay.name=Большая глиняная печка
+tile.furnaceSandstone.name=Песчаная печка
+tile.furnaceObsidian.name=Обсидиановая печь
+tile.furnaceNetherrack.name=Адская печь
+
+tile.stairsObsidian.name=Обсидиановые ступеньки
+tile.slab.group3.obsidian.name=Обсидиановая плита
+
+tile.runestone.name=Рунный камень
+
+tile.crops.name=Пшеница
+tile.onions.name=Лук
+
+tile.sandStone.sacred.name=Священный песчаник
+
+tile.spark.name=Искра
+
+tile.bush.name=Куст
+tile.bush.blueberry.name=Куст голубики
+
+tile.monsterStoneEgg.netherrack.name=Заражённый адский камень
+
+tile.bed.notSheltered=Здесь слишком открыто для сна
+tile.bed.tooHungry=Вы слишком голодны для сна
+tile.bed.wakeHungry=Вы проснулись от сильного голода
+tile.bed.obstructed=Кровать заблокирована
+tile.bed.wakeMobs=Подозрительный шум прервал ваш дрём
+tile.bed.poisoned=Вы не можете уснуть из-за отравления
+tile.bed.mobsDigging=Вы не чувствуете себя в безопасности
+
+tile.toolbench.flint.name=Кремнёвый верстак
+tile.toolbench.copper.name=Медный верстак
+tile.toolbench.silver.name=Серебряный верстак
+tile.toolbench.gold.name=Золотой верстак
+tile.toolbench.iron.name=Железный верстак
+tile.toolbench.mithril.name=Мифриловый верстак
+tile.toolbench.adamantium.name=Адамантиумовый верстак
+tile.toolbench.ancient_metal.name=Древний металлический верстак
+tile.toolbench.obsidian.name=Обсидиановый верстак
+
+tile.mantle.name=Мантия
+tile.core.name=Ядро
+
+container.oven=Печка
+
+container.strongbox.copper=Медный сейф
+container.strongbox.silver=Серебряный сейф
+container.strongbox.gold=Золотой сейф
+container.strongbox.iron=Железный сейф
+container.strongbox.mithril=Мифриловый сейф
+container.strongbox.adamantium=Адамантиумовый сейф
+container.strongbox.ancient_metal=Древний металлический сейф
+
+container.crafting.prevented=Создание прервано
+container.crafting.requiresExperience=Необходим опыт
+container.crafting.needsBetterTools=Нужен верстак получше
+container.crafting.needsToolBench=Нужен верстак
+container.crafting.damagedComponent=Поломанный ингредиент
+container.crafting.differentQuality=ПКМ, чтобы выбрать|более высокое качество.
+container.crafting.differentRunestone=ПКМ, чтобы выбрать|другую руну.
+container.crafting.qualityCostLessThanOneLevel=Создание предмета будет|стоить вам < 1 уровня.
+container.crafting.qualityCostOneLevel=Создание предмета будет|стоить вам 1 уровень.
+container.crafting.qualityCostMoreThanOneLevel=Создание предмета будет|стоить вам %d ур.
+
+container.repair.insufficientSkill=Недостаточно опыта
+container.repair.needsHarderAnvil=Нужна наковальня попрочнее
+
+container.furnace.wontFit=Не влезает
+container.furnace.cantSmelt=Не плавится
+container.furnace.notFuel=Не топливо
+container.furnace.tooHot=Слишком жаркое
+container.furnace.needsMoreHeat=Мало жара
+
+item.tooltip.durability=Прочность:
+item.tooltip.durabilityBonus=+%d%% прочности
+item.tooltip.durabilityPenalty=-%d%% прочности
+item.tooltip.bonusVsUndead=Бонус урона и защиты против нежити
+item.tooltip.missileDamage=+%d урона снаряда
+item.tooltip.missileRecovery=%d%% возврат
+item.tooltip.satiation=+%d насыщения
+item.tooltip.nutrition=+%d еды
+item.tooltip.protectionBonus=+%s защиты
+item.tooltip.fishingRodHook=%s крючок
+item.tooltip.velocityBonus=+%d%% скорости
+item.tooltip.placeBucketAsSource=Ctrl: Поставить источник
+item.tooltip.whenBucketFilled=Когда наполнено:
+item.tooltip.chanceOfBucketMelting=%d%% шанс расплавиться
+item.tooltip.XPEach=%d опыта за штуку
+item.tooltip.XP=+%d опыта
+item.tooltip.mapScaling=Масштаб: 1 к %d
+
+material.flint.name=Кременевый
+material.obsidian.name=Обсидиановый
+material.copper.name=Медный
+material.silver.name=Серебряный
+material.gold.name=Золотой
+material.iron.name=Железный
+material.ancientMetal.name=Древний металлический
+material.mithril.name=мифриловый
+material.adamantium.name=Адамантиумовый
+
+quality.wretched=§8Убогое качество
+quality.poor=§7Низкое качество
+quality.average=§fОбычное качество
+quality.fine=§aХорошее качество
+quality.excellent=§9Отличное качество
+quality.superb=§5Превосходное качество
+quality.masterwork=§bШедевр
+quality.legendary=§6Легендарное качество
+
+disconnect.disconnectionPenalty=Штраф за выход! Вы должны подождать перед повторным входом.
+disconnect.reconnectAt=Повторное подключение доступно в %s
+disconnect.reconnectBetween=Повторное подключение возможно с %s до %s
+disconnect.reconnectAtOrBetween=Зайдите сегодня в %s или завтра между %s и %s
+
+entity.Ghoul.name=Упырь
+entity.Wight.name=Мертвяк
+entity.InvisibleStalker.name=Невидимый преследователь
+entity.DemonSpider.name=Демонический паук
+entity.Hellhound.name=Адская гончая
+entity.DireWolf.name=Лютоволк
+entity.WoodSpider.name=Древесный паук
+entity.InfernalCreeper.name=Преисподний крипер
+entity.Shadow.name=Тень
+entity.Spectre.name=Призрак
+entity.FireElemental.name=Огненный элементаль
+entity.BlackWidowSpider.name=Чёрная вдова
+entity.Revenant.name=Выходец
+entity.EarthElemental.name=Земляной элементаль
+entity.Jelly.name=Желе
+entity.Blob.name=Сгусток
+entity.Ooze.name=Слизь
+entity.Pudding.name=Пудинг
+entity.VampireBat.name=Летучая мышь-вампир
+entity.GiantVampireBat.name=Гигантская летучая мышь-вампир
+entity.Longdead.name=Истлевший
+entity.LongdeadGuardian.name=Истлевший Страж
+entity.Nightwing.name=Ночнокрыл
+entity.Netherspawn.name=Адское отродье
+entity.Copperspine.name=Медная чешуйница
+entity.HoarySilverfish.name=Седая чешуйница
+entity.ClayGolem.name=Земляной элементаль
+entity.BoneLord.name=Костяной лорд
+entity.AncientBoneLord.name=Древний костяной лорд
+entity.PhaseSpider.name=Фазовый паук
+
+enchantment.damage.all=Острота
+enchantment.arrow_recovery=Возврат
+enchantment.stun=Ошеломление
+enchantment.fishing_fortune=Приманка
+enchantment.fertility=Удобрение
+enchantment.tree_felling=Лесоруб
+enchantment.vampiric=Вампир
+enchantment.speed=Скорость
+enchantment.regeneration=Регенерация
+enchantment.free_action=Свобода действий
+enchantment.quickness=Скорострел
+enchantment.true_flight=Меткость
+enchantment.poison=Яд
+enchantment.disarming=Обезоруживание
+enchantment.piercing=Пробитие
+enchantment.harvesting=Жатва
+enchantment.butchering=Забой
+enchantment.balance=Баланс
+enchantment.endurance=Выносливость
+
+achievement.buildHoe=Дачный эпизод
+achievement.buildHoe.desc=Создайте мотыгу из слитков и палок.
+achievement.seeds=Собирательство
+achievement.seeds.desc=Соберите семена или червей, чтобы прокормить себя.
+achievement.eggs=Бодибилдер
+achievement.eggs.desc=Выпейте яйцо для насыщения.
+achievement.stickPicker=Палка-копалка!
+achievement.stickPicker.desc=Соберите палки для инструментов.
+achievement.cuttingEdge=Крайние меры
+achievement.cuttingEdge.desc=Создайте кремневый топорик или нож из кремня, палок и жил.
+achievement.mineWood=Нарубить дров
+achievement.mineWood.desc=Руби дерево при помощи кремневого топорика, пока не выпадеть бревно.
+achievement.buildWorkBench=Рабочий стол
+achievement.buildWorkBench.desc=Создайте верстак из бревна и кремневого ножа.
+achievement.buildClub=Один в поле воин
+achievement.buildClub.desc=Создайте дубину из досок и палок.
+achievement.diamonds.desc=Добудьте алмазы при помощи мифриловой кирки.
+achievement.portal=Тёмные недра
+achievement.portal.desc=Постройте портал на дне мира, чтобы попасть в Подземелье.
+achievement.killCow=Мясник
+achievement.killCow.desc=Добудьте кожу из коров или овец.
+achievement.buildAxe=Как же быстро растут чужие топоры
+achievement.buildAxe.desc=Создайте кремневый топор из кремня, палок и жил.
+achievement.buildShovel=Копнуть поглубже
+achievement.buildShovel.desc=Используйте доски и палки, чтобы создать лопату.
+achievement.nuggets=Кладоискатель
+achievement.nuggets.desc=Найдите кусочек металла в гравие.
+achievement.betterTools=Новый век
+achievement.betterTools.desc=Создайте металлический верстак из слитка, палки, кожи и досок.
+achievement.makeBread=Хлеб насущный
+achievement.makeBread.desc=Испеките смесь из муки и воды.
+achievement.bakeCake=Правда
+achievement.bakeCake.desc=Мука, сахар, яйца и молоко!
+achievement.buildScythe=Сама смерть
+achievement.buildScythe.desc=Создайте косу, чтобы собирать пшеницу.
+achievement.wearLeather=Обновка
+achievement.wearLeather.desc=Наденьте на себя броню.
+achievement.buildChainMail=Броня крепка!
+achievement.buildChainMail.desc=Используйте металлические кусочки, чтобы создать цепи, а цепи, чтобы создать кольчугу.
+achievement.wearAllPlateArmor=Жестяная банка
+achievement.wearAllPlateArmor.desc=Покройте себя с головы до ног металлической бронёй.
+achievement.wearAllAdamantiumPlateArmor=Джагернаут
+achievement.wearAllAdamantiumPlateArmor.desc=Наденьте полный комплект адамантиумовой брони.
+achievement.buildPickaxe=Без дела и кирка ржавеет...
+achievement.buildPickaxe.desc=Создайте железную кирку из железных слитков и палок.
+achievement.buildFurnace=Ложись калачиком!
+achievement.buildFurnace.desc=Создайте каменную печь, чтобы жечь на углях.
+achievement.acquireIron=Куй железо пока...
+achievement.acquireIron.desc=Переплавьте железную руду в слиток.
+achievement.enchantments.desc=Используйте книгу, обсидиан и самоцветы, чтобы создать стол зачарования.
+achievement.bookcase=Ученье — свет
+achievement.bookcase.desc=Поставьте пару книжных полок рядом со столом зачарований для усиления чар.
+achievement.buildOven=Разгорячился
+achievement.buildOven.desc=Создайте печку, чтобы жарить мясо.
+achievement.flintFinder=Джекпот!
+achievement.flintFinder.desc=Найдите кремень, раскапывая гравий.
+achievement.buildTorches=Да будет свет!
+achievement.buildTorches.desc=Создайте факела, чтобы осветить тьму.
+achievement.soilEnrichment=Почти что чернозём
+achievement.soilEnrichment.desc=Удобрите пашню при помощи навоза.
+achievement.wellRested=Скажи спасибо, что живой
+achievement.wellRested.desc=Выспитесь в уютной кроватке.
+achievement.seaworthy=Морская корова
+achievement.seaworthy.desc=Выйдите на лодке в открытые воды.
+achievement.explorer=Как пешком до Китая
+achievement.explorer.desc=Уйдите на 10 километров от места рождения.
+achievement.enlightenment=Просветление
+achievement.enlightenment.desc=Прочтите труды отца Фунзанга.
+achievement.runegate=Крайняя зависть
+achievement.runegate.desc=Постройте портал с рунами в углах, чтобы быстро перемещаться между локациями.
+achievement.fishingRod=Ловись рыбка...
+achievement.fishingRod.desc=Создайте удочку из палок, ниток и кусочка металла.
+achievement.plantDoctor=Доктор для растений
+achievement.plantDoctor.desc=Излечите больные ростки при помощи костной муки.
+achievement.makeMycelium=Оставлен во тьме...
+achievement.makeMycelium.desc=Посадите гриб в тени на мокрую удобренную пашню и ждите.
+achievement.supersizeMe=и вскормлен навозом
+achievement.supersizeMe.desc=Увеличьте гриб, покормив его навозом.
+achievement.flour=По сусекам поскреби, по амбару помети
+achievement.flour.desc=Совместите 3 пшеницы, чтобы создать муку.
+achievement.obsidianFurnace=Лавовое нагревание
+achievement.obsidianFurnace.desc=Создайте обсидиановую печь, чтобы использовать лаву как топливо.
+achievement.mithrilIngot=Мистический век
+achievement.mithrilIngot.desc=Переплавьте мифриловый слиток.
+achievement.emeralds=Изумруды!
+achievement.emeralds.desc=Добудьте изумруды при помощи железных инструментов.
+achievement.netherrackFurnace=Супер-печь
+achievement.netherrackFurnace.desc=Создайте адскую печь, чтобы переплавлять адамантиум.
+achievement.adamantiumIngot=Прочнейший металл
+achievement.adamantiumIngot.desc=Переплавьте адамантиумовую руду в слиток.
+achievement.fineDining=Спасибо, мам!
+achievement.fineDining.desc=Приготовьте суп или салат.
+achievement.crystalBreaker=Ломай, ломай!
+achievement.crystalBreaker.desc=Выкуйте достаточно прочный инструмент, чтобы сломать кристалл края.
+achievement.portalToNether=В самое пекло
+achievement.portalToNether.desc=Постройте портал на дне подземелья, рядом с мантией.
+
+death.attack.poison=%1$s отравился
+death.attack.divine_lightning=%1$s поражен молнией
+death.attack.absolute=%1$s умер
+death.attack.hand_damage=%1$s забит досмерти %2$s
+
+/* Generic names of blocks that have subtypes ПОТЕНЦИАЛЬНО ОШИБКА т.к. хрен знает где это используется, мб будут предметы начинающиеся со строчной буквы или неправильные словосочитания*/
+tile.clayHardenedStained.name=обожжённая глина
+tile.brewingStand.name=зельеварка
+tile.cobbleWall.name=стена
+tile.comparator.name=компаратор
+tile.flowerPot.name=цветочный горшок
+tile.diode.name=редстоун повторитель
+tile.endPortal.name=портал в Край
+tile.monsterStoneEgg.name=яйцо призыва чешуйницы
+tile.pistonExtension.name=поршень
+tile.pistonMoving.name=поршень
+tile.pumpkinStem.name=стебель
+tile.quartzBlock.name=кварц
+tile.sapling.name=саженец
+tile.skull.name=череп
+tile.stoneSlab.name=каменная плита
+tile.woodSlab.name=деревянная плита
+tile.woolCarpet.name=ковёр

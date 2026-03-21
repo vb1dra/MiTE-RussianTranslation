@@ -1,0 +1,9 @@
+config.name.breadSkin.nutritionBarMode=Режим полосы питания
+config.enum.breadSkin.nutritionBarMode.Separate=Раздельный
+config.enum.breadSkin.nutritionBarMode.Mixed=Смешанный
+
+config.name.breadSkin.nutritionInfoMode=Детализация информации
+config.enum.breadSkin.nutritionInfoMode.Empty=Пусто
+config.enum.breadSkin.nutritionInfoMode.Exact=Точные значения
+config.enum.breadSkin.nutritionInfoMode.Percentage=Проценты
+config.enum.breadSkin.nutritionInfoMode.Mixed=Смешанно

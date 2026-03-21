@@ -1,0 +1,6 @@
+item.elytra.name=§5Элитры
+item.elytra_template.name=§5Шаблон элитр
+
+item.tooltip.elytra_template=Выпадает с дракона
+
+death.attack.flyIntoWall=%1$s ощутил на себе кинетическую энергию

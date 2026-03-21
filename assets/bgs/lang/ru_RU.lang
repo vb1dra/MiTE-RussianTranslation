@@ -1,0 +1,87 @@
+options.maxFps=Макс. частота кадров
+options.framerateLimit.max=Максимум
+options.mipmapLevels=Уровни мип-маппинга
+options.anisotropicFiltering=Анизотропная фильтрация
+options.forceUnicodeFont=Unicode-шрифт
+options.sounds=Музыка и звуки...
+options.sounds.title=Настройки музыки и звуков
+options.record=Проигрыватель/Нотные блоки
+options.weather=Погода
+options.block=Блоки
+options.hostile=Враждебные существа
+options.neutral=Дружелюбные существа
+options.player=Игроки
+options.ambient=Окружение
+options.ui=Интерфейс
+options.transparentBackground=Прозрачный фон
+options.highlightButtonText=Подсветка текста кнопок
+
+options.chunks= чанк.
+
+controls.classicControls=Классические настройки управления
+controls.title=Управление
+controls.reset=Сбросить
+controls.resetAll=Сбросить клавиши
+key.categories.movement=Движение
+key.categories.misc=Разное
+key.categories.multiplayer=Сетевая игра
+key.categories.gameplay=Игровой процесс
+key.categories.ui=Интерфейс игры
+key.categories.inventory=Инвентарь
+key.categories.uncategorized=Без категории
+controls.reset_keybinding_info=Вы уверены, что хотите сбросить все назначения клавиш?
+
+resourcePack.available.title=Доступные пакеты ресурсов
+resourcePack.selected.title=Выбранные пакеты ресурсов
+resourcePack.incompatible=Несовместим
+resourcePack.incompatible.old=(Для старой версии Minecraft)
+resourcePack.incompatible.new=(Для новой версии Minecraft)
+resourcePack.incompatible.confirm.title=Вы уверены, что хотите загрузить этот пакет ресурсов?
+resourcePack.incompatible.confirm.old=Этот пакет ресурсов был сделан для более старой версии Minecraft и может работать некорректно.
+resourcePack.incompatible.confirm.new=Этот пакет ресурсов был сделан для более новой версии Minecraft и может работать некорректно.
+
+options.search=§oПоиск…
+
+# description
+options.graphics.description=Настройка качества графики; выберите «Быстро» для лучшей производительности или «Детально» для улучшения визуала.
+options.ao.description=Включает мягкое освещение, чтобы убрать угловатые тени и сделать свет более естественным.
+options.anaglyph.description=Включает 3D-эффект (требуются 3D-очки).
+options.particles.description=Количество частиц в игре (огонь, дым и т.д.); уменьшение повышает производительность.
+options.vsync.description=Синхронизация частоты кадров с частотой обновления монитора для устранения разрывов экрана.
+options.viewBobbing.description=Включает покачивание камеры при движении; отключение помогает при укачивании.
+options.advancedOpengl.description=Включает оптимизацию OpenGL; может повысить FPS на некотором железе, но иногда вызывает графические баги. (зачастую дестабилизирует фпс)
+options.renderClouds.description=Включает отображение облаков; отключение может немного повысить производительность.
+options.fullscreen.description=Переключение игры в полноэкранный режим.
+options.renderDistance.description=Дальность прорисовки мира; низкие значения значительно повышают производительность.
+options.framerateLimit.description=Ограничение максимального FPS для экономии ресурсов системы или снижения энергопотребления.
+options.guiScale.description=Изменение размера интерфейса, подходит для разных разрешений экрана.
+options.gamma.description=Настройка общей яркости игры для лучшей видимости в темноте.
+options.serverTextures.description=Использовать пакет ресурсов сервера.
+options.transparentBackground.description=Фоном меню вне игры станут панорамы, а меню паузы — затемненные скриншоты игрока.
+options.highlightButtonText.description=Цвет текста при наведении курсора на кнопку.
+
+options.save=Сохранить
+options.reset=Сбросить
+
+selectWorld.tab.game=Игра
+selectWorld.tab.world=Мир
+selectWorld.tab.more=Прочее
+selectWorld.hover.worldName=Save Folder: §o%s
+selectWorld.button.gameRuleEditor=Игровые правила
+
+options.gameRules=Настройка игровых правил
+gamerules.default=§7По умолчанию：%s
+gamerules.doFireTick.name=Распространение огня
+gamerules.mobGriefing.name=Разрушительные действия мобов
+gamerules.keepInventory.name=Сохранение инвентаря при смерти
+gamerules.doMobSpawning.name=Появление мобов
+gamerules.doMobSpawning.description=У некоторых сущностей могут быть свои игровые правила.
+gamerules.doMobLoot.name=Выпадение добычи с мобов
+gamerules.doMobLoot.description=Влияет на выпадение предметов и сфер опыта с мобов.
+gamerules.doTileDrops.name=Выпадение блоков
+gamerules.doTileDrops.description=Влияет на выпадение предметов и сфер опыта с блоков.
+gamerules.commandBlockOutput.name=Сообщения командных блоков
+gamerules.naturalRegeneration.name=Регенерация здоровья
+gamerules.doDaylightCycle.name=Смена дня и ночи
+
+selectWorld.experimental.warning=Влияет на выпадение предметов и сфер опыта с мобов.

@@ -1,0 +1,19 @@
+config.name.IMBlocker=Исправление метода ввода (IM)
+config.name.ForceEnableInputMethodGuiScreens=Пути классов экранов, требующих активации IM (китайский)
+
+config.name.SlashIM=Активация IM через слеш
+config.name.NoSpamLog=Не спамить в логах
+
+config.name.NoAttackDump=Без дампа атаки
+config.comment.NoAttackDump=Не откроет файл с данными существа атакованного с зажатым Ctrl (необходим DevhHackMode или прочие читы)
+
+config.name.SprintingMode=Режим бега
+
+config.name.NoReferenceFile=Убрать файлы с референсами
+config.comment.NoReferenceFile=Удаляет файлы в MITE/reference. В этих файлах находится информация по типу прочности всех предметов, насыщения еды, питательная масса еды для червей и т.д.
+
+config.name.VanillaChat=Ванильный чат
+config.comment.VanillaChat=Открытие чата останавливает действия игрока.
+
+config.enum.SprintingMode.Press=Удерживание
+config.enum.SprintingMode.Toggle=Переключение

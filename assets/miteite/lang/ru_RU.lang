@@ -1,0 +1,135 @@
+item.obsidian_stick.name=Обсидиановая палка
+item.vibranium.name=Вибраниумовый слиток
+
+tile.anvil_vibranium.name=Вибраниумовая наковальня
+tile.anvil_vibranium.intact.name=Вибраниумовая наковальня
+tile.anvil_vibranium.slightlyDamaged.name=Повреждённая вибраниумовая наковальня
+tile.anvil_vibranium.veryDamaged.name=Сильно повреждённая вибраниумовая наковальня
+item.vibranium_nugget.name=Кусочек вибраниума
+item.vibranium_helmet.name=Вибраниумовый шлем
+item.vibranium_chestplate.name=Вибраниумовый нагрудник
+item.vibranium_leggings.name=Вибраниумовые поножи
+item.vibranium_boots.name=Вибраниумовые ботинки
+item.vibranium_sword.name=Вибраниумовый меч
+item.vibranium_shovel.name=Вибраниумовая лопата
+item.vibranium_pickaxe.name=Вибраниумовая кирка
+item.vibranium_axe.name=Вибраниумовый топор
+item.vibranium_dagger.name=Вибраниумовый кинжал
+item.vibranium_war_hammer.name=Вибраниумовый боевой молот
+item.vibranium_battle_axe.name=Вибраниумовый боевой топор
+item.vibranium_bow.name=Вибраниумовый лук
+
+item.blaze_coal_powder.name=Ифритовая угольная пыль
+item.diamond_chunk.name=Кусок алмаза
+
+item.enhance_stone/iron.name=Железный камень закалки
+item.enhance_stone/mithril.name=Мифриловый камень закалки
+item.enhance_stone/adamantium.name=Адамантиумовый камень закалки
+item.enhance_stone/universal.name=Универсальный камень закалки
+
+tile.block_vibranium.name=Блок вибраниума
+tile.toolbench.vibranium.name=Вибраниумовый верстак
+tile.furnace_vibranium_idle.name=Вибраниумовая печь
+tile.furnace_vibranium_burning.name=Вибраниумовая печь
+tile.nether_adamantium_ore.name=Адская адамантиумовая руда
+tile.vibranium_chest.name=Вибраниумовый сейф
+
+tile.block_forging_table.name=Кузнечный стол
+tile.forging_table.iron.name=Железный кузнечный стол
+tile.forging_table.mithril.name=Мифриловый кузнечный стол
+tile.forging_table.adamantium.name=Адамантиумовый кузнечный стол
+tile.forging_table.vibranium.name=Вибраниумовый кузнечный стол
+
+achievement.vibraniumIngot=Значит я буду всемогущ?
+achievement.vibraniumIngot.desc=Создайте вибраниум в верстаке
+achievement.vibraniumAnvil=Две тысячи лет спустя....
+achievement.vibraniumAnvil.desc=Создайте вибраниумовую наковальню в верстаке
+achievement.vibraniumArmor=Неуязвимый.
+achievement.vibraniumArmor.desc=Наденьте полный комплект вибраниумовой брони
+achievement.vibraniumFurnace="Атомная плавильня"
+achievement.vibraniumFurnace.desc=Создайте вибраниумовую печь. (она может превращать уголь в алмазы!)
+commands.version.playing=Вы играете
+commands.day.msg=Этому миру %s дней
+
+enchantment.defence=Самозащита
+enchantment.crit=Критический удар
+enchantment.extend=Дальность
+enchantment.emergency=Экстренная помощь
+enchantment.beheading=Обезглавливание
+enchantment.conqueror=Завоеватель
+
+entity.EntityZombieLord.name=Гниющий лорд
+entity.EntityZombiePigmanLord.name=Гниющий свино-лорд
+entity.EntityAnnihilationSkeleton.name=Скелет тотального уничтожения
+entity.EntityWanderingWitch.name=Блуждающая ведьма
+
+gui.forgingTable.start=Начать закалку
+gui.forgingTable.item_req=Необходимые для закалки предметы
+gui.forgingTable.failed=Закалка неудачна!
+gui.forgingTable.succeed=Закалка успешна!
+gui.forgingTable.time=Время закалки
+gui.forgingTable.chanceOfFailure=Шанс неудачи
+gui.forgingTable.ifFail=При неудаче
+gui.forgingTable.axeCost=Расход прочности топора
+gui.forgingTable.hammerCost=Расход прочности молота
+gui.forgingTable.needAxe=Необходим топор
+gui.forgingTable.needHammer=Необходим молот
+gui.forgingTable.max_level_or_not_found=Снаряжение достигла высшего уровня или рецепт не существует
+
+gui.forgingTable.levelToLow.iron=Уровень кузнецкого стола слишком низок, необходим §n§7 железный§r кузнечный стол
+gui.forgingTable.levelToLow.ancient_metal=Уровень кузнецкого стола слишком низок, необходим §n§g древний металлический§r кузнечный стол
+gui.forgingTable.levelToLow.mithril=Уровень кузнецкого стола слишком низок, необходим §n§h мифриловый§r кузнечный стол
+gui.forgingTable.levelToLow.adamantium=Уровень кузнецкого стола слишком низок, необходим §n§d адамантиумовый§r кузнечный стол
+gui.forgingTable.levelToLow.vibranium=Уровень кузнецкого стола слишком низок, необходим §n§9 вибраниумовый§r кузнечный стол
+
+forging.failFeedback.break=предмет будет разрушен
+forging.failFeedback.durability.amount=потеря прочности: %s ед.
+forging.failFeedback.durability.percentage=потеря прочности: %s%%
+forging.failFeedback.downgrade=понижение уровня на %s
+# portal_door???
+gameplay.portal_door.interact=§nИгрок %s входит в портальную дверь
+command.sleep_check.msg=Текущие игроки не спят:
+command.sleep_check.none=Все игроки легли спать
+container.workbench.boost=Бонус скорости создания:
+container.strongbox.vibranium=Вибраниумовый сейф
+
+itemGroup.MITE-ITE=MITE-ITE
+
+miteite.tool.modifier.maxlevel=Уровень: §6Высший %s
+miteite.tool.modifier.level=Уровень:
+miteite.tool.modifier.exp=Опыт:
+miteite.tool.modifier.modifiers=Модификаторы:
+miteite.msg.modifier.level=Ваш модификатор %2$s §r снаряжения %1$s был улучшен до %3$s уровня
+miteite.msg.modifier.new=Ваше снаряжение  %1$s получает модификатор %2$s §r
+miteite.msg.modifier.upgrade=Ваше снаряжение %1$s было улучшено, текущий уровень: %2$s
+miteite.tool.forging.grade=§5Уровень закалки:§6
+miteite.tool.forging.exp=  §7Бонус опыта:§a
+miteite.tool.forging.armor=  §9Бонус брони:§6
+miteite.tool.forging.attack=  §9Бонус атаки:§6
+miteite.tool.forging.dig=  §9Бонус скорости копания:§6
+
+modifier.armor.durability.name=Прочность
+modifier.armor.projectile_protection.name=Защита от снарядов
+modifier.armor.explosion_protection.name=Взрывоустойчивость
+modifier.armor.fire_protection.name=Огнеупорность
+modifier.armor.protection.name=Защита
+modifier.armor.steady.name=Стойкость
+modifier.armor.blessed.name=Благословение
+modifier.armor.indomitable.name=Несокрушимость
+modifier.armor.immunity.name=Иммунитет
+
+modifier.tool.efficiency.name=Эффективность
+modifier.tool.aquaynamic.name=Аквадинамика
+modifier.tool.durability.name=Прочность
+modifier.tool.damage.name=Острота
+modifier.tool.slowdown.name=Замедление
+modifier.tool.unnatural.name=Неестественность
+modifier.tool.demon.name=Демонизм
+modifier.tool.geology.name=Геология
+
+commands.forging.usage=/forging <PLayer> <set> <Level>
+commands.forging.set.success=Уровень закалки успешно установлен на %d.
+commands.itemlevel.usage=/itemlevel <Player> <set> <level/xp> <nNum>
+commands.itemlevel.set.level.success=Уровень предмета успешно установлен на %d.
+commands.itemlevel.set.xp.success=Опыт предмета успешно установлен на %d.
+

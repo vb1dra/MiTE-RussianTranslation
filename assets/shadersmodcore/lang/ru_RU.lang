@@ -1,0 +1,38 @@
+options.advanced.video.settings=Дополнительные настройки графики...
+options.shader.settings=Шейдеры...
+options.particle.settings=Настройки частиц...
+options.quality.settings=Настройки качества...
+
+options.graphics.rendering=Рендеринг графики
+options.shadow.rendering=Рендеринг теней
+
+options.block.destroy.shader=Светящийся прогресс разрушения блоков
+options.clouds.shadow=Освещение и тени облаков
+options.arms.shader=Удалённости рук от экрана
+options.texture.quality=Качество текстур
+options.texture.maximum.mass=Максимальный размер текстур
+options.texture.maximum.effect=Максимальный эффект текстур
+options.frustum.shadow=Пирамида видимости теней
+
+options.open.shader.config=Открыть папку с конфигурацией шейдеров
+options.list.shader.profiles=Список шейдеров
+
+shaders.load.success=Шейдер успешно загружен:
+
+options.dynamic.light=Динамическое освещение
+options.drawing.selection.block=Отрисовка контура блока
+options.render.rainsnow=Дождь/Снег
+options.render.shadow=Тени
+
+options.block.destroy.effect=Разрушение блоков
+options.block.explode.effect=Взрывы
+
+options.quality.grass=Трава
+options.quality.leaves=Листва
+options.quality.vignette=Виньетка
+options.quality.drops=Капли
+options.quality.water=Вода
+options.quality.rain=Дождь
+options.quality.default=По умолчанию
+options.quality.fancy=Детально
+options.quality.fast=Быстро

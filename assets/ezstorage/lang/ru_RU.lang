@@ -1,0 +1,100 @@
+itemGroup.Simple Storage=Simple Storage
+
+tile.ezstorage:storage_core.name=Ядро хранилища
+tile.ezstorage:storage_box.name=Ячейка хранилища
+tile.ezstorage:condensed_storage_box.name=Уплотнённая ячейка хранилища
+tile.ezstorage:hyper_storage_box.name=Гипер-ячейка хранилища
+tile.ezstorage:input_port.name=Прокси хранилища
+tile.ezstorage:crafting_box.name=Верстачная ячейка
+tile.ezstorage:storage_panel.name=Панель хранилища
+tile.ezstorage:storage_cable.name=Кабель хранилища
+
+hud.msg.ezstorage.general.holdshift=§o<Удерживайте Shift>
+hud.msg.ezstorage.general.holdctrl=§o<Удерживайте Ctrl>
+hud.msg.ezstorage.core.itemscount=%s / %s предметов
+hud.msg.ezstorage.core.typescount=%s / %s типов
+hud.msg.ezstorage.core.inventoryid=%s
+hud.msg.ezstorage.storage.capacity=Вместимость: %s предметов
+hud.msg.ezstorage.sort.mode.amount=Сортировать по: кол-ву
+hud.msg.ezstorage.sort.mode.name=Сортировать по: названию
+hud.msg.ezstorage.sort.mode.mod=Сортировать по: моду
+hud.msg.ezstorage.sort.order.descending=Порядок: убывание
+hud.msg.ezstorage.sort.order.ascending=Порядок: возрастание
+hud.msg.ezstorage.search.mode.standard=Поиск: по умолчанию
+hud.msg.ezstorage.savesearch.on=Сохранение поиска: вкл
+hud.msg.ezstorage.savesearch.off=Сохранение поиска: выкл
+hud.msg.ezstorage.autorefill.on=Авто-заполнение: вкл
+hud.msg.ezstorage.autorefill.off=Авто-заполнение: выкл
+hud.msg.ezstorage.amount_count=%s / %s
+
+chat.msg.storagecore_connected=Подключено к ядру хранилища на x=%s y=%s z=%s
+chat.msg.storagecore_not_found=Ядро хранилища не найдено
+chat.msg.storagecore_out_of_range=Ядро хранилища вне диапазона
+chat.msg.storagecore_break_blocked_nonempty=Нельзя сломать ядро, пока в нём есть предметы
+
+key.categories.ezstorage=Конфиги Simple Storage
+key.ezstorage.open_terminal=Открыть панель хранилища
+
+config.tab.storage=Настройки хранилищ
+config.tab.gui=Настройки клиента
+
+config.name.ezstorage.basicCapacity=Ячейка хранилища
+config.comment.ezstorage.basicCapacity=Количество предметов в ячейке хранилища.
+config.name.ezstorage.condensedCapacity=Уплотнённая ячейка хранилища
+config.comment.ezstorage.condensedCapacity=Количество предметов в уплотнённой ячейке хранилища.
+config.name.ezstorage.hyperCapacity=Гипер-ячейка хранилища
+config.comment.ezstorage.hyperCapacity=Количество предметов в гипер-ячейке хранилища.
+config.name.ezstorage.maxItemTypes=Максимальное количество типов предметов
+config.comment.ezstorage.maxItemTypes=Максимальное количество разнообразных типов предметов в ядре хранилища. 0 = бесконечно.
+config.name.ezstorage.focusGuiInput=GUI авто-поиск
+config.comment.ezstorage.focusGuiInput=Открывать поле поиска при открытии GUI.
+config.name.ezstorage.guiSortMode=GUI режим сортировки
+config.comment.ezstorage.guiSortMode=Последний режим сортировки.
+config.name.ezstorage.guiSortOrder=GUI порядок сортировки
+config.comment.ezstorage.guiSortOrder=Последний порядок сортировки.
+config.name.ezstorage.guiSearchMode=GUI режим поиска
+config.comment.ezstorage.guiSearchMode=Последний режим поиска.
+config.name.ezstorage.guiSaveSearch=Сохранение поиска
+config.comment.ezstorage.guiSaveSearch=Сохранение текста в поле поиска.
+config.name.ezstorage.guiAutoRefill=Авто-заполнение поля создания
+config.comment.ezstorage.guiAutoRefill=Авто-заполнение поля создания в верстачной ячейке после создания предмета.
+config.name.ezstorage.guiSearchText=Сохранённый текст поиска
+config.comment.ezstorage.guiSearchText=Сохранённый текст поиска (работает, если "Сохранение поиска" включено).
+config.name.ezstorage.renderCraftingPreview=Отображать создание
+config.comment.ezstorage.renderCraftingPreview=Отображать ингредиенты создания над подключенными терминалами.
+
+ezstorage.tier.basic=Базовая
+ezstorage.tier.copper=Медная
+ezstorage.tier.silver=Серебряная
+ezstorage.tier.gold=Золотая
+ezstorage.tier.iron=Железная
+ezstorage.tier.ancient_metal=Древняя металлическая
+ezstorage.tier.mithril=Мифриловая
+ezstorage.tier.adamantium=Адамантиумовая
+
+ezstorage.crafting_box.upgrade.maxed=§eВерстачная ячейка улучшена до максимума (Адамантиум).
+ezstorage.crafting_box.upgrade.need.group1=Медный, серебряный или золотой слиток
+ezstorage.crafting_box.upgrade.need.group2=Железный слиток
+ezstorage.crafting_box.upgrade.need.group3=Древний металлический слиток
+ezstorage.crafting_box.upgrade.need.group4=Мифриловый слиток
+ezstorage.crafting_box.upgrade.need.group5=Адамантиумовый слиток
+ezstorage.crafting_box.upgrade.need.default=материал получше
+ezstorage.crafting_box.upgrade.wrong_tier=§eНельзя улучшить: не хватает %s.
+ezstorage.crafting_box.upgrade.success=§aВерстачная ячейка улучшена до: %s верстачная ячейка.
+
+ezstorage.crafting_box.tier_label=Уровень: %s
+ezstorage.crafting_box.speed_label=Ускорение: %s
+ezstorage.crafting_box.upgrade_hint=§e [Ctrl+ПКМ] Для улучшения возьмите подходящий слиток.
+ezstorage.crafting.remaining_time=Осталось: %s секунд
+
+ezstorage.emi.info.storage_core=Ядро хранилища: мозг сети, соединяет все EZStorage блоки.
+ezstorage.emi.info.storage_panel=Панель хранилища: удаленный терминал для взаимодействия с ядром хранилища.
+ezstorage.emi.info.storage_box=Ячейка хранилища: блок базового увеличения вместимости сети.
+ezstorage.emi.info.condensed_storage_box=Уплотнённая ячейка хранилища: блок среднего увеличения вместимости сети.
+ezstorage.emi.info.hyper_storage_box=Гипер-ячейка хранилища: блок высшего увеличения вместимости сети.
+ezstorage.emi.info.input_port=Прокси хранилища: блок для взаимодействия между воронками и сетью.
+ezstorage.emi.info.storage_cable=Кабель хранилища: соединяет блоки хранилища и увеличивает диапазон сети.
+ezstorage.emi.info.crafting_box=Верстачная ячейка: умный верстак.
+
+hud.msg.ezstorage.waila.connected=Ядро: x=%s y=%s z=%s
+hud.msg.ezstorage.waila.no_core=Не подключено к ядру хранилища
