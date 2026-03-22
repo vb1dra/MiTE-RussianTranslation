@@ -352,16 +352,16 @@ item.misc/frost_powder.name=Морозный порошок
 item.misc/boss_detector.name=Детектор босса
 
 item.ignition/wood.name=Лучковое огниво
-item.ignition/rusted_iron.name=Ржавая железная огниво
-item.ignition/copper.name=Медная огниво
-item.ignition/silver.name=Серебряная огниво
-item.ignition/gold.name=Золотая огниво
-item.ignition/iron.name=Железная огниво
-item.ignition/nickel.name=Никелевая огниво
-item.ignition/ancient_metal.name=Древняя металлическая огниво
-item.ignition/mithril.name=Мифриловая огниво
-item.ignition/tungsten.name=Вольфрамовая огниво
-item.ignition/adamantium.name=Адамантиумовая огниво
+item.ignition/rusted_iron.name=Ржавое железное огниво
+item.ignition/copper.name=Медное огниво
+item.ignition/silver.name=Серебряное огниво
+item.ignition/gold.name=Золотое огниво
+item.ignition/iron.name=Железное огниво
+item.ignition/nickel.name=Никелевое огниво
+item.ignition/ancient_metal.name=Древнее металлическое огниво
+item.ignition/mithril.name=Мифриловое огниво
+item.ignition/tungsten.name=Вольфрамовое огниво
+item.ignition/adamantium.name=Адамантиумовое огниво
 
 item.shards/diamond.name=Алмазный осколок
 item.shards/emerald.name=Изумрудный осколок
