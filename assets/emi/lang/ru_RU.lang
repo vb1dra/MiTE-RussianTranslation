@@ -113,7 +113,7 @@ config.emi.general.search_sidebar=Поле поиска
 config.emi.general.search_tooltip_by_default=Поиск по подсказке
 config.emi.general.search_mod_name_by_default=Поиск по названию мода
 config.emi.general.search_tags_by_default=Поиск по тегам
-config.emi.general.search_id_by_default=Посик по ID
+config.emi.general.search_id_by_default=Поиск по ID
 config.emi.general.search_name_by_pinyin=Поиск Pinyin
 config.emi.general.simulate_nei_lag=[retroEMI] Симулировать NEI
 
